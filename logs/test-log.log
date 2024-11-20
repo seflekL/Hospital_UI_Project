@@ -1,0 +1,16 @@
+2024-11-20 18:10:53 [main] INFO  utils.LoggerHelper - Test Başlıyor: Valid Login
+2024-11-20 18:10:55 [main] INFO  utils.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-11-20 18:11:07 [main] ERROR utils.LoggerHelper - Test başarısız oldu: Valid Login
+2024-11-20 18:11:07 [main] INFO  utils.LoggerHelper - Driver kapatıldı.
+2024-11-20 18:11:15 [main] INFO  utils.LoggerHelper - Test Başlıyor: User searches for a keyword on Google
+2024-11-20 18:11:16 [main] INFO  utils.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-11-20 18:11:19 [main] INFO  stepdefinitions.GoogleSteps - Google ana sayfasına gidildi: https://www.google.com/
+2024-11-20 18:11:19 [main] INFO  stepdefinitions.GoogleSteps - Kullanıcı şu terimi arıyor: Java tutorials
+2024-11-20 18:11:34 [main] ERROR utils.LoggerHelper - Test başarısız oldu: User searches for a keyword on Google
+2024-11-20 18:11:35 [main] INFO  utils.LoggerHelper - Driver kapatıldı.
+2024-11-20 18:11:50 [main] INFO  utils.LoggerHelper - Test Başlıyor: User searches for a keyword on Google
+2024-11-20 18:11:53 [main] INFO  utils.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-11-20 18:11:55 [main] INFO  stepdefinitions.GoogleSteps - Google ana sayfasına gidildi: https://www.google.com/
+2024-11-20 18:11:55 [main] INFO  stepdefinitions.GoogleSteps - Kullanıcı şu terimi arıyor: Java tutorials
+2024-11-20 18:12:10 [main] ERROR utils.LoggerHelper - Test başarısız oldu: User searches for a keyword on Google
+2024-11-20 18:12:11 [main] INFO  utils.LoggerHelper - Driver kapatıldı.
