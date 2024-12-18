@@ -1,16 +1,109 @@
-2024-11-20 18:10:53 [main] INFO  utils.LoggerHelper - Test Başlıyor: Valid Login
-2024-11-20 18:10:55 [main] INFO  utils.LoggerHelper - Driver başlatıldı ve test hazırlandı.
-2024-11-20 18:11:07 [main] ERROR utils.LoggerHelper - Test başarısız oldu: Valid Login
-2024-11-20 18:11:07 [main] INFO  utils.LoggerHelper - Driver kapatıldı.
-2024-11-20 18:11:15 [main] INFO  utils.LoggerHelper - Test Başlıyor: User searches for a keyword on Google
-2024-11-20 18:11:16 [main] INFO  utils.LoggerHelper - Driver başlatıldı ve test hazırlandı.
-2024-11-20 18:11:19 [main] INFO  stepdefinitions.GoogleSteps - Google ana sayfasına gidildi: https://www.google.com/
-2024-11-20 18:11:19 [main] INFO  stepdefinitions.GoogleSteps - Kullanıcı şu terimi arıyor: Java tutorials
-2024-11-20 18:11:34 [main] ERROR utils.LoggerHelper - Test başarısız oldu: User searches for a keyword on Google
-2024-11-20 18:11:35 [main] INFO  utils.LoggerHelper - Driver kapatıldı.
-2024-11-20 18:11:50 [main] INFO  utils.LoggerHelper - Test Başlıyor: User searches for a keyword on Google
-2024-11-20 18:11:53 [main] INFO  utils.LoggerHelper - Driver başlatıldı ve test hazırlandı.
-2024-11-20 18:11:55 [main] INFO  stepdefinitions.GoogleSteps - Google ana sayfasına gidildi: https://www.google.com/
-2024-11-20 18:11:55 [main] INFO  stepdefinitions.GoogleSteps - Kullanıcı şu terimi arıyor: Java tutorials
-2024-11-20 18:12:10 [main] ERROR utils.LoggerHelper - Test başarısız oldu: User searches for a keyword on Google
-2024-11-20 18:12:11 [main] INFO  utils.LoggerHelper - Driver kapatıldı.
+2024-12-17 20:38:42 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01 Belirlenmiş URL ile siteye erişebilmeliyim
+2024-12-17 20:38:46 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-17 20:38:49 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-17 20:38:49 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı bulunduğu URL ile belirlenmiş URL doğru.
+2024-12-17 20:38:49 [main] INFO  StepDefinitions.HomePageStep - Site başlığı beklenen ile aynı
+2024-12-17 20:38:49 [main] INFO  StepDefinitions.HomePageStep - Browser kapatıldı.
+2024-12-17 20:38:49 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC01 Belirlenmiş URL ile siteye erişebilmeliyim
+2024-12-17 20:38:49 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-17 20:47:17 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01 Belirlenmiş URL ile siteye erişebilmeliyim
+2024-12-17 20:47:18 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-17 20:47:20 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-17 20:47:20 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı bulunduğu URL ile belirlenmiş URL doğru.
+2024-12-17 20:47:20 [main] INFO  StepDefinitions.HomePageStep - Site başlığı beklenen ile aynı
+2024-12-17 20:47:20 [main] INFO  StepDefinitions.HomePageStep - Browser kapatıldı.
+2024-12-17 20:47:20 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC01 Belirlenmiş URL ile siteye erişebilmeliyim
+2024-12-17 20:47:20 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-17 22:30:23 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC_001 AAbout Us dropdown seceneklerinin dogru sekilde goruntulenmesi dogrulanmalidir.
+2024-12-17 22:30:26 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-17 22:30:32 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC_001 AAbout Us dropdown seceneklerinin dogru sekilde goruntulenmesi dogrulanmalidir.
+2024-12-17 22:30:32 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-17 22:39:20 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC_001 AAbout Us dropdown seceneklerinin dogru sekilde goruntulenmesi dogrulanmalidir.
+2024-12-17 22:39:22 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-17 22:39:29 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC_001 AAbout Us dropdown seceneklerinin dogru sekilde goruntulenmesi dogrulanmalidir.
+2024-12-17 22:39:29 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-17 23:28:03 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC_001 AAbout Us dropdown seceneklerinin dogru sekilde goruntulenmesi dogrulanmalidir.
+2024-12-17 23:28:05 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-17 23:28:07 [main] INFO  StepDefinitions.PatientStep - Anasayfaya gidildi: https://qa.heallifehospital.com/
+2024-12-17 23:28:11 [main] INFO  StepDefinitions.PatientStep - Tarayıcı kapatıldı.
+2024-12-17 23:28:11 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC_001 AAbout Us dropdown seceneklerinin dogru sekilde goruntulenmesi dogrulanmalidir.
+2024-12-17 23:28:11 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-17 23:32:39 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC_001 AAbout Us dropdown seceneklerinin dogru sekilde goruntulenmesi dogrulanmalidir.
+2024-12-17 23:32:41 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-17 23:32:43 [main] INFO  StepDefinitions.PatientStep - Anasayfaya gidildi: https://qa.heallifehospital.com/
+2024-12-17 23:32:48 [main] INFO  StepDefinitions.PatientStep - Tarayıcı kapatıldı.
+2024-12-17 23:32:48 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC_001 AAbout Us dropdown seceneklerinin dogru sekilde goruntulenmesi dogrulanmalidir.
+2024-12-17 23:32:48 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-18 10:43:01 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC_001 Kullanici randevu alma islemini basariyla gerceklestirir
+2024-12-18 10:43:05 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-18 10:43:13 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC_001 Kullanici randevu alma islemini basariyla gerceklestirir
+2024-12-18 10:43:13 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-18 10:47:58 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01_Ana sayfada Featured Services yazısı ve altında
+2024-12-18 10:48:00 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-18 10:48:04 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC01_Ana sayfada Featured Services yazısı ve altında
+2024-12-18 10:48:04 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-18 16:44:20 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01 Belirlenmiş URL ile siteye erişebilmeliyim
+2024-12-18 16:44:23 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-18 16:44:25 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-18 16:44:25 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı bulunduğu URL ile belirlenmiş URL doğru.
+2024-12-18 16:44:25 [main] INFO  StepDefinitions.HomePageStep - Site başlığı beklenen ile aynı
+2024-12-18 16:44:26 [main] INFO  StepDefinitions.HomePageStep - Browser kapatıldı.
+2024-12-18 16:44:26 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC01 Belirlenmiş URL ile siteye erişebilmeliyim
+2024-12-18 16:44:26 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-18 16:44:40 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Header'daki elementlerin gorunurlugunu dogrulama
+2024-12-18 16:44:41 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-18 16:44:43 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-18 16:44:43 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Header'daki elementlerin gorunurlugunu dogrulama
+2024-12-18 16:44:43 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-18 16:53:17 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01_Ana sayfada Featured Services yazısı ve altında
+2024-12-18 16:53:19 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-18 16:53:20 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC01_Ana sayfada Featured Services yazısı ve altında
+2024-12-18 16:53:21 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-18 16:53:46 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01 Belirlenmiş URL ile siteye erişebilmeliyim
+2024-12-18 16:53:48 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-18 16:53:50 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-18 16:53:50 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı bulunduğu URL ile belirlenmiş URL doğru.
+2024-12-18 16:53:50 [main] INFO  StepDefinitions.HomePageStep - Site başlığı beklenen ile aynı
+2024-12-18 16:53:50 [main] INFO  StepDefinitions.HomePageStep - Browser kapatıldı.
+2024-12-18 16:53:50 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC01 Belirlenmiş URL ile siteye erişebilmeliyim
+2024-12-18 16:53:50 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-18 17:39:34 [main] INFO  utilities.LoggerHelper - Test Başlıyor: About Us dropdown ve About Hospitals sayfa testi
+2024-12-18 17:39:36 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-18 17:39:36 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: About Us dropdown ve About Hospitals sayfa testi
+2024-12-18 17:39:36 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-18 17:42:47 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01 Belirlenmiş URL ile siteye erişebilmeliyim
+2024-12-18 17:42:49 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-18 17:42:51 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-18 17:42:51 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı bulunduğu URL ile belirlenmiş URL doğru.
+2024-12-18 17:42:51 [main] INFO  StepDefinitions.HomePageStep - Site başlığı beklenen ile aynı
+2024-12-18 17:42:51 [main] INFO  StepDefinitions.HomePageStep - Browser kapatıldı.
+2024-12-18 17:42:51 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC01 Belirlenmiş URL ile siteye erişebilmeliyim
+2024-12-18 17:42:51 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-18 18:02:03 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Kullanıcı Departments sayfasındaki başlıkları ve açıklama metinlerini doğrular
+2024-12-18 18:02:05 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-18 18:02:07 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-18 18:02:07 [main] INFO  StepDefinitions.AboutUsStep - {menuName} menüsünün üzerine gelindi.
+2024-12-18 18:02:09 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Departments sayfasına yönlendirildiğini doğruladı.
+2024-12-18 18:02:09 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen departmanların başlık ve açıklama metinlerinin yer aldığı doğrulandı.
+2024-12-18 18:02:09 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen departmanların başlık ve açıklama metinlerinin yer aldığı doğrulandı.
+2024-12-18 18:02:09 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen departmanların başlık ve açıklama metinlerinin yer aldığı doğrulandı.
+2024-12-18 18:02:09 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen departmanların başlık ve açıklama metinlerinin yer aldığı doğrulandı.
+2024-12-18 18:02:09 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen departmanların başlık ve açıklama metinlerinin yer aldığı doğrulandı.
+2024-12-18 18:02:09 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen departmanların başlık ve açıklama metinlerinin yer aldığı doğrulandı.
+2024-12-18 18:02:09 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen departmanların başlık ve açıklama metinlerinin yer aldığı doğrulandı.
+2024-12-18 18:02:09 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen departmanların başlık ve açıklama metinlerinin yer aldığı doğrulandı.
+2024-12-18 18:02:09 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen departmanların başlık ve açıklama metinlerinin yer aldığı doğrulandı.
+2024-12-18 18:02:09 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen departmanların başlık ve açıklama metinlerinin yer aldığı doğrulandı.
+2024-12-18 18:02:09 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen departmanların başlık ve açıklama metinlerinin yer aldığı doğrulandı.
+2024-12-18 18:02:09 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen departmanların başlık ve açıklama metinlerinin yer aldığı doğrulandı.
+2024-12-18 18:02:10 [main] INFO  StepDefinitions.HomePageStep - Browser kapatıldı.
+2024-12-18 18:02:10 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Kullanıcı Departments sayfasındaki başlıkları ve açıklama metinlerini doğrular
+2024-12-18 18:02:10 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-18 18:20:15 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01_Insurance Plans,Pediatric Services, Lab Testing board'larının görünür olması testi
+2024-12-18 18:20:17 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-18 18:20:19 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC01_Insurance Plans,Pediatric Services, Lab Testing board'larının görünür olması testi
+2024-12-18 18:20:19 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-18 18:20:42 [main] INFO  utilities.LoggerHelper - Test Başlıyor: [TC01 > FUS03] Add Staff Sayfasina Erisilebilmesi
+2024-12-18 18:20:43 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-18 18:20:50 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: [TC01 > FUS03] Add Staff Sayfasina Erisilebilmesi
+2024-12-18 18:20:51 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.

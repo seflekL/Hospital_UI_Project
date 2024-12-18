@@ -64,7 +64,7 @@ draftCucumberProject
 │   │   │   └── login.feature              # Login senaryoları
 │   │   ├── runners
 │   │   │   └── TestRunner.java            # Test çalıştırıcı
-│   │   ├── stepdefinitions
+│   │   ├── Stepdefinitions
 │   │   │   ├── Hooks.java                 # Before/After metodları
 │   │   │   └── LoginSteps.java            # Login işlemleri adımları
 │   └── resources
@@ -129,7 +129,7 @@ Cucumber senaryolarını çalıştırmak ve tanımlamak için test kodlarını i
 - **Dosyalar:**
     - **`login.feature`**: Login işlemleri için örnek bir senaryo içerir.
 
-#### **3.2. `stepdefinitions`**
+#### **3.2. `Stepdefinitions`**
 - **Amacı:** `.feature` dosyalarındaki adımları Java kodlarına bağlar.
 - **Dosyalar:**
     - **`Hooks.java`**: Testlerden önce ve sonra çalışan yapılandırmaları tanımlar (ör. `Before` ve `After`).
