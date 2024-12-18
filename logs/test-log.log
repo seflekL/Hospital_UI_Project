@@ -207,3 +207,24 @@
 2024-12-18 22:56:12 [main] INFO  StepDefinitions.PatientStep - Kullanıcı sayfayı kapattı.
 2024-12-18 22:56:12 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC_001 AAbout Us dropdown seceneklerinin dogru sekilde goruntulenmesi dogrulanmalidir.
 2024-12-18 22:56:12 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-18 23:28:24 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Doktor, randevulu hastaasına sistem üzerinden ilaç yazar ve fatura oluşturur.
+2024-12-18 23:28:27 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-18 23:28:30 [main] INFO  StepDefinitions.DoctorStep - Doktor siteye gitti.
+2024-12-18 23:28:36 [main] INFO  StepDefinitions.DoctorStep - Doktor email ve password ile giriş yaptı.
+2024-12-18 23:28:41 [main] INFO  StepDefinitions.AppointmentStep - Pharmacy sayfasına tıklandı.
+2024-12-18 23:28:43 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Doktor Generate Bill Butonuna basildi
+2024-12-18 23:28:48 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Hasta id'si 259 olarak secildi
+2024-12-18 23:28:51 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Medicine Category olarak Capsule secildi
+2024-12-18 23:28:53 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Medicine Name olarak WORMSTOP secildi
+2024-12-18 23:28:55 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Batch No olarak 1520 secildi
+2024-12-18 23:28:56 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Quantity olarak 3 yazildi
+2024-12-18 23:29:02 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Hospital Doctor olarak Levent secildi
+2024-12-18 23:29:02 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Save butonuna basildi
+2024-12-18 23:29:03 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Save butonuna basildi
+2024-12-18 23:29:07 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Success mesaji gorundu
+2024-12-18 23:29:07 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Listede hasta ismi dogru
+2024-12-18 23:29:09 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Listede hasta ismi dogru
+2024-12-18 23:29:09 [main] ERROR StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Listede hasta ismi yanlis
+2024-12-18 23:29:10 [main] INFO  StepDefinitions.DoctorStep - Browser kapatıldı.
+2024-12-18 23:29:10 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Doktor, randevulu hastaasına sistem üzerinden ilaç yazar ve fatura oluşturur.
+2024-12-18 23:29:10 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
