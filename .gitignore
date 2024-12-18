@@ -72,7 +72,7 @@ build/
 # Log4j log files
 /logs/
 
-config.properties
+/configuration.properties
 .env/
 
 
