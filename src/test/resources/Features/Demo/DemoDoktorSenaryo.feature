@@ -1,5 +1,6 @@
 Feature: Bir doktorun, randevulu hastasına ilaç yazma süreci
-@Allure
+
+  @Allure
   Scenario: Doktor, randevulu hastaasına sistem üzerinden ilaç yazar ve fatura oluşturur.
 
     * Doktor "HLadminUrl" sitesine gider

@@ -228,3 +228,94 @@
 2024-12-18 23:29:10 [main] INFO  StepDefinitions.DoctorStep - Browser kapatıldı.
 2024-12-18 23:29:10 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Doktor, randevulu hastaasına sistem üzerinden ilaç yazar ve fatura oluşturur.
 2024-12-18 23:29:10 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-18 23:31:08 [main] INFO  runners.TestRunner - Cucumber Test Runner başlatılıyor...
+2024-12-18 23:31:08 [main] INFO  utilities.LoggerHelper - Test Başlıyor: [TC_001 > US_03] Ana sayfa kaydırıcısında görsellerin görüntülenmesi ve otomatik değişimi
+2024-12-18 23:31:11 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-18 23:31:12 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: [TC_001 > US_03] Ana sayfa kaydırıcısında görsellerin görüntülenmesi ve otomatik değişimi
+2024-12-18 23:31:13 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-18 23:31:13 [main] INFO  utilities.LoggerHelper - Test Başlıyor: [TC_002 > US_04] Ana sayfa slider'inde gecis ikonu kullanilarak gorseller arasinda gecis yapilmasi
+2024-12-18 23:31:15 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-18 23:31:17 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: [TC_002 > US_04] Ana sayfa slider'inde gecis ikonu kullanilarak gorseller arasinda gecis yapilmasi
+2024-12-18 23:31:17 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-18 23:31:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Doktor, randevulu hastaasına sistem üzerinden ilaç yazar ve fatura oluşturur.
+2024-12-18 23:31:59 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-18 23:32:02 [main] INFO  StepDefinitions.DoctorStep - Doktor siteye gitti.
+2024-12-18 23:32:06 [main] INFO  StepDefinitions.DoctorStep - Doktor email ve password ile giriş yaptı.
+2024-12-18 23:32:11 [main] INFO  StepDefinitions.AppointmentStep - Pharmacy sayfasına tıklandı.
+2024-12-18 23:32:14 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Doktor Generate Bill Butonuna basildi
+2024-12-18 23:32:19 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Hasta id'si 259 olarak secildi
+2024-12-18 23:32:21 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Medicine Category olarak Capsule secildi
+2024-12-18 23:32:23 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Medicine Name olarak WORMSTOP secildi
+2024-12-18 23:32:25 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Batch No olarak 1520 secildi
+2024-12-18 23:32:27 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Quantity olarak 3 yazildi
+2024-12-18 23:32:33 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Hospital Doctor olarak Levent secildi
+2024-12-18 23:32:33 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Save butonuna basildi
+2024-12-18 23:32:34 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Save butonuna basildi
+2024-12-18 23:32:38 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Success mesaji gorundu
+2024-12-18 23:32:38 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Listede hasta ismi dogru
+2024-12-18 23:32:40 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Listede hasta ismi dogru
+2024-12-18 23:32:40 [main] ERROR StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Listede hasta ismi yanlis
+2024-12-18 23:32:40 [main] INFO  StepDefinitions.DoctorStep - Browser kapatıldı.
+2024-12-18 23:32:40 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Doktor, randevulu hastaasına sistem üzerinden ilaç yazar ve fatura oluşturur.
+2024-12-18 23:32:40 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-18 23:32:40 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01 Belirlenmiş URL ile siteye erişebilmeliyim
+2024-12-18 23:32:42 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-18 23:32:44 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-18 23:32:44 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı bulunduğu URL ile belirlenmiş URL doğru.
+2024-12-18 23:32:44 [main] INFO  StepDefinitions.HomePageStep - Site başlığı beklenen ile aynı
+2024-12-18 23:32:44 [main] INFO  StepDefinitions.HomePageStep - Browser kapatıldı.
+2024-12-18 23:32:44 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC01 Belirlenmiş URL ile siteye erişebilmeliyim
+2024-12-18 23:32:44 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-18 23:32:44 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC_001 AAbout Us dropdown seceneklerinin dogru sekilde goruntulenmesi dogrulanmalidir.
+2024-12-18 23:32:46 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-18 23:32:48 [main] INFO  StepDefinitions.PatientStep - Kullanıcı ana sayfaya gitti.
+2024-12-18 23:32:52 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı header bölümünde yer alan AboutUs'a tıkladı.
+2024-12-18 23:32:52 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, alt About menüsündeki seçenekleri doğruluyor.
+2024-12-18 23:32:52 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, alt About menüsündeki seçenekleri doğruluyor.
+2024-12-18 23:32:52 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, alt About menüsündeki seçenekleri doğruluyor.
+2024-12-18 23:32:52 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, alt About menüsündeki seçenekleri doğruluyor.
+2024-12-18 23:32:52 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, alt About menüsündeki seçenekleri doğruluyor.
+2024-12-18 23:32:52 [main] INFO  StepDefinitions.PatientStep - Kullanıcı sayfayı kapattı.
+2024-12-18 23:32:52 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC_001 AAbout Us dropdown seceneklerinin dogru sekilde goruntulenmesi dogrulanmalidir.
+2024-12-18 23:32:52 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-18 23:44:12 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Doktor, randevulu hastaasına sistem üzerinden ilaç yazar ve fatura oluşturur.
+2024-12-18 23:44:14 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-18 23:44:18 [main] INFO  StepDefinitions.DoctorStep - Doktor siteye gitti.
+2024-12-18 23:44:22 [main] INFO  StepDefinitions.DoctorStep - Doktor email ve password ile giriş yaptı.
+2024-12-18 23:44:27 [main] INFO  StepDefinitions.AppointmentStep - Pharmacy sayfasına tıklandı.
+2024-12-18 23:44:29 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Doktor Generate Bill Butonuna basildi
+2024-12-18 23:44:34 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Hasta id'si 259 olarak secildi
+2024-12-18 23:44:37 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Medicine Category olarak Capsule secildi
+2024-12-18 23:44:39 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Medicine Name olarak WORMSTOP secildi
+2024-12-18 23:44:41 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Batch No olarak 1520 secildi
+2024-12-18 23:44:42 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Quantity olarak 3 yazildi
+2024-12-18 23:44:48 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Hospital Doctor olarak Levent secildi
+2024-12-18 23:44:49 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Save butonuna basildi
+2024-12-18 23:44:50 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Save butonuna basildi
+2024-12-18 23:44:54 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Success mesaji gorundu
+2024-12-18 23:44:54 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Listede hasta ismi dogru
+2024-12-18 23:44:56 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Listede hasta ismi dogru
+2024-12-18 23:44:56 [main] ERROR StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Listede hasta ismi yanlis
+2024-12-18 23:44:56 [main] INFO  StepDefinitions.DoctorStep - Browser kapatıldı.
+2024-12-18 23:44:56 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Doktor, randevulu hastaasına sistem üzerinden ilaç yazar ve fatura oluşturur.
+2024-12-18 23:44:56 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-18 23:44:56 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01 Belirlenmiş URL ile siteye erişebilmeliyim
+2024-12-18 23:44:57 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-18 23:44:59 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-18 23:44:59 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı bulunduğu URL ile belirlenmiş URL doğru.
+2024-12-18 23:44:59 [main] INFO  StepDefinitions.HomePageStep - Site başlığı beklenen ile aynı
+2024-12-18 23:45:00 [main] INFO  StepDefinitions.HomePageStep - Browser kapatıldı.
+2024-12-18 23:45:00 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC01 Belirlenmiş URL ile siteye erişebilmeliyim
+2024-12-18 23:45:00 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-18 23:45:00 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC_001 AAbout Us dropdown seceneklerinin dogru sekilde goruntulenmesi dogrulanmalidir.
+2024-12-18 23:45:02 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-18 23:45:04 [main] INFO  StepDefinitions.PatientStep - Kullanıcı ana sayfaya gitti.
+2024-12-18 23:45:08 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı header bölümünde yer alan AboutUs'a tıkladı.
+2024-12-18 23:45:08 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, alt About menüsündeki seçenekleri doğruluyor.
+2024-12-18 23:45:08 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, alt About menüsündeki seçenekleri doğruluyor.
+2024-12-18 23:45:08 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, alt About menüsündeki seçenekleri doğruluyor.
+2024-12-18 23:45:08 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, alt About menüsündeki seçenekleri doğruluyor.
+2024-12-18 23:45:08 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, alt About menüsündeki seçenekleri doğruluyor.
+2024-12-18 23:45:09 [main] INFO  StepDefinitions.PatientStep - Kullanıcı sayfayı kapattı.
+2024-12-18 23:45:09 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC_001 AAbout Us dropdown seceneklerinin dogru sekilde goruntulenmesi dogrulanmalidir.
+2024-12-18 23:45:09 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
