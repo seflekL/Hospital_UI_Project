@@ -1,5 +1,5 @@
 Feature: Bir kullanıcı olarak siteyi kullanabilmek icin web sitesine erisebilmeliyim
-  @test
+  @Allure
   Scenario: TC01 Belirlenmiş URL ile siteye erişebilmeliyim
 
     Given Kullanıcı "HLurl" sitesine gider

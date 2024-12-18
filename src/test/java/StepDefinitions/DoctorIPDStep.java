@@ -5,7 +5,7 @@ import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 
 public class DoctorIPDStep {
-    WebDriver driver = Hooks.getDriver();
+    WebDriver driver = StepDefinitions.Hooks.getDriver();
     private static final Logger logger = LogManager.getLogger(DoctorIPDStep.class);
 
 }

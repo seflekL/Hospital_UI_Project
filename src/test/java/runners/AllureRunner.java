@@ -19,5 +19,4 @@ import org.junit.runner.RunWith;
         dryRun = false                           // Adım tanımlamalarının eksik olup olmadığını kontrol eder
 )
 public class AllureRunner {
-        // Test Runner boş bırakılır. JUnit kullanarak testleri çalıştırır.
-}
+ }

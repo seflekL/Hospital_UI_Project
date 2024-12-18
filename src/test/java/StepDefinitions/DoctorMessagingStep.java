@@ -16,8 +16,8 @@ import utilities.ReusableMethods;
 
 public class DoctorMessagingStep {
 
-    WebDriver driver = Hooks.getDriver();
-    private static final Logger logger = LogManager.getLogger(DoctorStep.class);
+    WebDriver driver = StepDefinitions.Hooks.getDriver();
+    private static final Logger logger = LogManager.getLogger(StepDefinitions.DoctorStep.class);
     DoctorPage doctorPage=new DoctorPage();
     LoginPage loginPage=new LoginPage();
 

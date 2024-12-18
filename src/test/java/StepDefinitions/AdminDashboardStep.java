@@ -21,7 +21,7 @@ import java.util.List;
 import static org.junit.Assert.assertEquals;
 
 public class AdminDashboardStep {
-    WebDriver driver = Hooks.getDriver();
+    WebDriver driver = StepDefinitions.Hooks.getDriver();
     private static final Logger logger = LogManager.getLogger(AdminDashboardStep.class);
     LoginPage loginPage = new LoginPage();
     AdminDashboardPage adminDashboardPage = new AdminDashboardPage();

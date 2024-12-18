@@ -7,7 +7,6 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.junit.Assert;
 import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
@@ -19,7 +18,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class AboutUsStep {
-    WebDriver driver = Hooks.getDriver();
+    WebDriver driver = StepDefinitions.Hooks.getDriver();
     private static final Logger logger = LogManager.getLogger(AboutUsStep.class);
     AboutUsPage page = new AboutUsPage();
 

@@ -1,9 +1,9 @@
 Feature: Bir doktorun, randevulu hastasına ilaç yazma süreci
-
+@Allure
   Scenario: Doktor, randevulu hastaasına sistem üzerinden ilaç yazar ve fatura oluşturur.
 
     * Doktor "HLadminUrl" sitesine gider
-    * Doktor email olarak "DoctorMailIsmaill" ve password olarakda "Passwords" ile giriş yapar
+    * Doktor email olarak "DoctorMailLevent" ve password olarakda "Passwords" ile giriş yapar
     * Doktor sitenin SideBar'ında bulunan "Pharmacy" sayfasına tıklar
     * Doktor Generate Bill Butonuna basar
     * Hasta id'si "259" olarak seçer

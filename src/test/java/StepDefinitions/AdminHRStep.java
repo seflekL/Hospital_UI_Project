@@ -20,7 +20,7 @@ import java.sql.Driver;
 
 public class AdminHRStep {
 
-    WebDriver driver = Hooks.getDriver();
+    WebDriver driver = StepDefinitions.Hooks.getDriver();
     private static final Logger logger = LogManager.getLogger(AdminHRStep.class);
     AdminHRPage adminHRPage = new AdminHRPage();
 

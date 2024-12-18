@@ -7,15 +7,13 @@ import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.Select;
-import pages.AboutUsPage;
 import pages.Admin_Pharmacy_Pathology_RadiologyPage;
 import utilities.DriverManager;
 import utilities.ReusableMethods;
 
 
 public class Admin_Pharmacy_Pathology_RadiologyStep {
-    WebDriver driver = Hooks.getDriver();
+    WebDriver driver = StepDefinitions.Hooks.getDriver();
     private static final Logger logger = LogManager.getLogger(Admin_Pharmacy_Pathology_RadiologyStep.class);
 
     Admin_Pharmacy_Pathology_RadiologyPage page= new Admin_Pharmacy_Pathology_RadiologyPage();

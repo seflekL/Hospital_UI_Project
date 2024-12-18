@@ -3,6 +3,7 @@ package StepDefinitions;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import io.qameta.allure.Step;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.junit.Assert;
@@ -24,39 +25,51 @@ import static org.junit.Assert.assertTrue;
 
 
 public class DoctorStep {
-    WebDriver driver = Hooks.getDriver();
+    WebDriver driver = StepDefinitions.Hooks.getDriver();
     private static final Logger logger = LogManager.getLogger(DoctorStep.class);
     DoctorPage doctorPage=new DoctorPage();
     LoginPage loginPage=new LoginPage();
 
-
+    @Step("Doktor geçerli url ile giriş yapar")
     @Given("Doktor geçerli url ile giriş yapar")
     public void doktor_geçerli_url_ile_giriş_yapar() {
         DriverManager.getDriver().get(ConfigReader.getProperty("HLadminUrl"));
 
-
+        logger.info("Doktor geçerli url ile giriş yaptı.");
 
     }
+    @Step("Geçerli User Name girer")
     @Then("Gecerli User Name girer")
     public void gecerli_user_name_girer() {
         loginPage.email.sendKeys(ConfigReader.getProperty("DoctorMailDamla"));
+        logger.info("Geçerli User Name girildi.");
+
     }
+    @Step("Geçerli password girer")
     @Then("Gecerli password girer")
     public void gecerli_password_girer() {
         loginPage.password.sendKeys(ConfigReader.getProperty("Passwords"));
+        logger.info("Geçerli password girildi.");
+
     }
+
     @Then("navbar altinda post mesajlari bölümü oldugu dogrulanir")
     public void navbar_altinda_post_mesajlari_bölümü_oldugu_dogrulanir() {
         assertTrue("Doktor paneli mesaj bölümü görüntülenir",doctorPage.mesajBolumu.isDisplayed());
-    }
+        logger.info("Navbar altında post mesajları bölümü olduğu doğrulandı.");
 
+    }
+    @Step("Takvim bölümüne gelinir")
     @Then("takvim bolumune gelinir")
     public void takvim_bolumune_gelinir() {
         Actions actions=new Actions(driver);
         actions.sendKeys(Keys.PAGE_DOWN).perform();
         actions.sendKeys(Keys.PAGE_DOWN).perform();
         ReusableMethods.bekle(2);
+        logger.info("Navbar altında post mesajları bölümü olduğu doğrulandı.");
+
     }
+    @Step("Month tıklanır ve gün seçilir")
     @Then("Month tiklanir ve gun secilir")
     public void month_tiklanir_ve_gun_secilir() {
         doctorPage.monthButton.click();
@@ -65,8 +78,10 @@ public class DoctorStep {
         ReusableMethods.bekle(3);
 
         actions.moveToElement(doctorPage.takvimUzerindeSecilenGun).click().perform();
+        logger.info("Month tıklandı ve gün seçildi.");
 
     }
+    @Step("Event title, event date, event color ve event type bölümleri doldurulur")
     @Then("Event title, event date, event color ve event type bolumleri doldurulur")
     public void event_title_event_date_event_color_ve_event_type_bolumleri_doldurulur() {
         doctorPage.eventTitle.sendKeys("deneme");
@@ -75,37 +90,39 @@ public class DoctorStep {
         doctorPage.applyButton.click();
         doctorPage.eventColorRed.click();
 
+        logger.info("Event title, event date, event color ve event type bölümleri dolduruldu.");
 
     }
+    @Step("Save butonuna tıklanır")
     @Then("save butonuna tiklanir")
     public void save_butonuna_tiklanir() {
         ReusableMethods.bekle(2);
         doctorPage.newEventSaveButton.click();
+        logger.info("Save butonuna tıklandı.");
 
     }
 
 
-
-
-
     AdminDashboardPage dashboardPage = new AdminDashboardPage();
-
+    @Step("Doktor {string} sitesine gider")
     @Given("Doktor {string} sitesine gider")
     public void doktor_sitesine_gider(String url) {
         DriverManager.getDriver().get(ConfigReader.getProperty(url));
         ReusableMethods.wait(2);
-    }
+        logger.info("Doktor siteye gitti.");
 
+    }
+    @Step("Doktor email olarak {string} ve password olarak {string} ile giriş yapar")
     @When("Doktor email olarak {string} ve password olarakda {string} ile giriş yapar")
     public void doktor_email_olarak_ve_password_olarakda_ile_giriş_yapar(String email, String password) {
         loginPage.email.sendKeys(ConfigReader.getProperty(email));
         loginPage.password.sendKeys(ConfigReader.getProperty(password));
         ReusableMethods.wait(2);
         loginPage.signInButton.click();
-        logger.info("Doktor email olarak " + email + " ve password olarakda " + password + " ile giriş yapar.");
+         logger.info("Doktor email ve password ile giriş yaptı.");
 
     }
-
+    @Step("Doktor sayfasında Dashboard SideBar'da menüleri görünür ve aktif olmalı")
     @Then("Doktor sayfasında Dashboard SideBar'da menüleri görünür ve aktif olmalı")
     public void doktor_sayfasında_dashboard_side_bar_da_menüleri_görünür_ve_aktif_olmalı() {
         List<WebElement> menus = Arrays.asList(
@@ -124,6 +141,8 @@ public class DoctorStep {
                 dashboardPage.TPAManagementMenu,
                 dashboardPage.MessagingMenu,
                 dashboardPage.LiveConsultationMenu
+
+
         );
 
         List<String> menuNames = Arrays.asList(
@@ -235,13 +254,13 @@ public class DoctorStep {
         }
     }
 
-
+    @Step("Doktor browser kapatır")
     @Then("Doktor browser kapatır")
     public void doktor_browser_kapatır() {
         DriverManager.quitDriver();
         logger.info("Browser kapatıldı.");
     }
-
+    @Step("Doktor sayfasında Dashboard SideBar'daki menüler doğru sayfaya ulaşmalı")
     @Then("Doktor sayfasında Dashboard SideBar'daki menüler dogru sayfaya ulmaşmalı")
     public void doktor_sayfasında_dashboard_side_bar_daki_menüler_dogru_sayfaya_ulmaşmalı() {
         ReusableMethods.navigateAndAssert("Dashboard", dashboardPage.DashboardMenu, "https://qa.heallifehospital.com/admin/admin/dashboard", logger);
@@ -281,11 +300,12 @@ public class DoctorStep {
         ReusableMethods.navigateAndAssert("Setup Symptoms", dashboardPage.SetupSymptomsMenu, "https://qa.heallifehospital.com/admin/symptoms", logger);
         ReusableMethods.navigateAndAssert("Setup Appointment", dashboardPage.SetupAppointmentMenu, "https://qa.heallifehospital.com/admin/onlineappointment/", logger);
     }
-
+    @Step("Doktor sayfasında Hamburger menüye tıklayıp SideBar'ı kapatır")
     @Then("Doktor sayfasında Hamburger menüye tıklayıp SideBar'ı kapatır")
     public void doktor_sayfasında_hamburger_menüye_tıklayıp_side_bar_ı_kapatır() {
         dashboardPage.HamburgerMenu.click();
     }
+    @Step("Doktor sayfasında Dashboard SideBar'ı kapalı olduğunda ikonlar görünür olmalı")
     @Then("Doktor sayfasında Dashboard SideBar'ı kapalı oldugunda iconlar gorunur olmalı")
     public void doktor_sayfasında_dashboard_side_bar_ı_kapalı_oldugunda_iconlar_gorunur_olmalı() {
         List<WebElement> menus = Arrays.asList(
@@ -351,70 +371,97 @@ public class DoctorStep {
 
     }
 
-
+    @Step("Çalışan sayısı bölümüne gelinir")
     @Then("calisan sayisi bolumune gelinir")
     public void calisan_sayisi_bolumune_gelinir() {
         Actions actions=new Actions(driver);
         actions.sendKeys(Keys.PAGE_DOWN).perform();
+        logger.info("Çalışan sayısı bölümüne gelindi.");
 
     }
+    @Step("Accountant'in {int} olduğu doğrulanır")
     @Then("accountant in {int} oldugu dogrulanir")
     public void accountant_in_oldugu_dogrulanir(Integer int1) {
         String actualNumberText=doctorPage.accountantNumber.getText();
         Integer actualNumber=Integer.parseInt(actualNumberText);
         Assert.assertEquals("Accountant sayisi dogru",int1,actualNumber);
+        logger.info("Accountant'in sayısı doğrulandı.");
 
 
     }
+    @Step("Doctor'un {int} olduğu doğrulanır")
     @Then("doctor un {int} oldugu dogrulanir")
     public void doctor_un_oldugu_dogrulanir(Integer int1) {
 
         String actualNumberText=doctorPage.doctorNumber.getText();
         Integer actualNumber=Integer.parseInt(actualNumberText);
         Assert.assertEquals("Doctor sayisi dogru",int1,actualNumber);
+        logger.info("Doctor'un sayısı doğrulandı.");
+
     }
+    @Step("Pharmacist'in {int} olduğu doğrulanır")
     @Then("pharmacist in {int} oldugu dogrulanir")
     public void pharmacist_in_oldugu_dogrulanir(Integer int1) {
 
         String actualNumberText=doctorPage.pharmacistNumber.getText();
         Integer actualNumber=Integer.parseInt(actualNumberText);
         Assert.assertEquals("Phamacist sayisi dogru",int1,actualNumber);
+        logger.info("Pharmacist'in sayısı doğrulandı.");
+
     }
+    @Step("Pathologist'in {int} olduğu doğrulanır")
     @Then("pathologist in {int} oldugu dogrulanir")
     public void pathologist_in_oldugu_dogrulanir(Integer int1) {
         String actualNumberText=doctorPage.pathologistNumber.getText();
         Integer actualNumber=Integer.parseInt(actualNumberText);
         Assert.assertEquals("Pathologist sayisi dogru",int1,actualNumber);
+        logger.info("Pathologist'in sayısı doğrulandı.");
+
     }
+    @Step("Radiologist'in {int} olduğu doğrulanır")
     @Then("radiologist in {int} oldugu dogrulanir")
     public void radiologist_in_oldugu_dogrulanir(Integer int1) {
         String actualNumberText=doctorPage.radiologistNumber.getText();
         Integer actualNumber=Integer.parseInt(actualNumberText);
         Assert.assertEquals("Radiologist sayisi dogru",int1,actualNumber);
+        logger.info("Radiologist'in sayısı doğrulandı.");
+
     }
+    @Step("Super Admin'in {int} olduğu doğrulanır")
     @Then("super admin in {int} oldugu dogrulanir")
     public void super_admin_in_oldugu_dogrulanir(Integer int1) {
         String actualNumberText=doctorPage.superAdminNumber.getText();
         Integer actualNumber=Integer.parseInt(actualNumberText);
         Assert.assertEquals("Super Admin sayisi dogru",int1,actualNumber);
+        logger.info("Super Admin'in sayısı doğrulandı.");
+
     }
+    @Step("Receptionist'in {int} olduğu doğrulanır")
     @Then("receptionist in {int} oldugu dogrulanir")
     public void receptionist_in_oldugu_dogrulanir(Integer int1) {
         String actualNumberText=doctorPage.receptionistNumber.getText();
         Integer actualNumber=Integer.parseInt(actualNumberText);
         Assert.assertEquals("Receptionist sayisi dogru",int1,actualNumber);
+        logger.info("Receptionist'in sayısı doğrulandı.");
+
     }
+    @Step("Nurse'in {int} olduğu doğrulanır")
     @Then("Nurse in {int} oldugu dogrulanir")
     public void nurse_in_oldugu_dogrulanir(Integer int1) {
         String actualNumberText=doctorPage.nurseNumber.getText();
         Integer actualNumber=Integer.parseInt(actualNumberText);
         Assert.assertEquals("Nurse sayisi dogru",int1,actualNumber);
         logger.info("çalışan sayilari dogrulandi");
+
     }
+    @Step("Kullanıcı Doctor'a tıklar")
     @Then("kullanici doctor a tiklar")
     public void kullanici_doctor_a_tiklar() {
         doctorPage.doctorText.click();
+        logger.info("Kullanıcı Doctor'a tıkladı.");
+
     }
+    @Step("Human Resources sayfasına yönlendirdiği test edilir")
     @Then("human resources sayfasina yönlendirdigi test edilir")
     public void human_resources_sayfasina_yönlendirdigi_test_edilir() {
         String currentURL=driver.getCurrentUrl();
@@ -427,6 +474,13 @@ public class DoctorStep {
 
         // Human Resources sayfasına yönlendirme başarılı mı?
         assertTrue("Human Resources sayfasına yönlendirilmedi!", currentURL.contains("staff"));
+        logger.info("Human Resources sayfasına yönlendirme doğrulandı.");
+
+
+
+
+
+
     }
 
 

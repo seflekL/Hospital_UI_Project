@@ -1,6 +1,5 @@
 package StepDefinitions;
 
-import io.cucumber.java.bs.A;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -10,8 +9,6 @@ import org.apache.logging.log4j.Logger;
 import org.junit.Assert;
 import org.junit.jupiter.api.Assertions;
 import org.openqa.selenium.*;
-import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.PageFactory;
 
 import pages.Gallery_ContactUsPage;
 import pages.HomePage;
@@ -21,15 +18,13 @@ import utilities.JSUtilities;
 
 import utilities.ReusableMethods;
 
-import java.sql.Driver;
 import java.util.Arrays;
-import java.util.List;
 import java.util.List;
 
 
 public class HomePageStep {
 
-    WebDriver driver = Hooks.getDriver();
+    WebDriver driver = StepDefinitions.Hooks.getDriver();
     private static final Logger logger = LogManager.getLogger(HomePageStep.class);
 
     HomePage homePage = new HomePage();
