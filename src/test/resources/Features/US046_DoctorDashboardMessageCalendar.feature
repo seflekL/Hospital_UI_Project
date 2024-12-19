@@ -1,15 +1,15 @@
 @smoke
 Feature: Doktor paneli Ana sayfası özellikleri
 
-  @regression
-  Scenario: TC01 Login sayfasina dogru datalar ile sisteme girilmesi testi
+  @regression1
+  Scenario:Login sayfasina dogru datalar ile sisteme girilmesi testi
     Given Doktor geçerli url ile giriş yapar
     Then Gecerli User Name girer
     Then Gecerli password girer
     And Sign In butonuna tıklar
 
-  @regression
-  Scenario: TC02 Doktorlara gonderilen post mesajlarinin goruntulenmesi testi
+  @regression1
+  Scenario:Doktorlara gonderilen post mesajlarinin goruntulenmesi testi
     Given Doktor geçerli url ile giriş yapar
     Then Gecerli User Name girer
     Then Gecerli password girer
@@ -18,7 +18,7 @@ Feature: Doktor paneli Ana sayfası özellikleri
     And navbar altinda post mesajlari bölümü oldugu dogrulanir
 
   @regression
-  Scenario: TC03 Doktora ait takvimin görüntülenmesi ve işlemler yapılabilmesi testi
+  Scenario:Doktora ait takvimin görüntülenmesi ve işlemler yapılabilmesi testi
     Given Doktor geçerli url ile giriş yapar
     Then Gecerli User Name girer
     Then Gecerli password girer
@@ -28,8 +28,8 @@ Feature: Doktor paneli Ana sayfası özellikleri
     Then Event title, event date, event color ve event type bolumleri doldurulur
     And save butonuna tiklanir
 
-  @regression
-  Scenario: TC04 Sisteme kayitli calisan sayisinin goruntulenmesi testi
+  @regression1
+  Scenario:Sisteme kayitli calisan sayisinin goruntulenmesi testi
     Given Doktor geçerli url ile giriş yapar
     Then Gecerli User Name girer
     Then Gecerli password girer

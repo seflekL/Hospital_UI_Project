@@ -1,15 +1,15 @@
 @smoke
 Feature: Verify footer and social media links functionality
 
-  @regression
-  Scenario: TC_01 Kullanıcı qa.heallifehospital.com URL'ine ulaşabilmelidir.
+  @regression1
+  Scenario:Kullanıcı qa.heallifehospital.com URL'ine ulaşabilmelidir.
     Given Kullanıcı HLurl adresini ziyaret eder
     And Kullanıcı siteye başarıyla erişebildiğini doğrular
     And Kullanıcı ana sayfanın footer bölümüne kaydırır
     And Kullanıcı sosyal medya ikonu Facebook'un görünür olduğunu doğrular
 
-  @regression
-  Scenario: TC_02 Sosyal medya ikonlarının ilgili hesaplara yönlendirdiğinin doğrulanması testi
+  @regression1
+  Scenario:Sosyal medya ikonlarının ilgili hesaplara yönlendirdiğinin doğrulanması testi
     Given Kullanıcı HLurl adresini ziyaret eder
     And Kullanıcı ana sayfanın footer bölümüne kaydırır
     And Facebook ikonuna tıklar

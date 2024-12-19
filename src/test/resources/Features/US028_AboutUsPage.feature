@@ -1,7 +1,7 @@
 @smoke
 Feature: Bir kullanici olarak hastane hakkinda daha cok bilgiye sahip olmak icin ana sayfada About Us menusunun olmasini istiyorum.
 
-  @regression
+  @regression1
   Scenario: TC_001 AAbout Us dropdown seceneklerinin dogru sekilde goruntulenmesi dogrulanmalidir.
 
     Given Kullanici anasayfaya gider

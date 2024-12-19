@@ -1,10 +1,10 @@
 @smoke
 Feature: Bir yönetici (admin) olarak Admin panelinde menulerin yer aldigi bir dashboard sidebar olmasini istiyorum.
 
-  @regression
+  @regression1
   Scenario: Admin Dashboard kullanbilirlik testi
     Given Kullanici Heal Life "HLadminUrl"  girer
-    When Admin mail "AdminMailKubra"  ve password "Passwords" ile sign in olur
+    When Admin mail "AdminMailLevent"  ve password "Passwords" ile sign in olur
     Then Heal Life Hospital & Research yazisinin solundaki sidebar iconuna tiklar
 
   @regression

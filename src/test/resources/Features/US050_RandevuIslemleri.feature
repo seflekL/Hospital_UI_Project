@@ -5,8 +5,8 @@ Feature: Doktor olarak Dashboard SideBar'indaki Appointment sayfasindan hastalar
     Given Doktor "HLadminUrl" sitesine gider
     When Doktor email olarak "DoctorMailLevent" ve password olarakda "Passwords" ile giriş yapar
     Then Doktor sitenin SideBar'ında bulunan "Appointment" sayfasına tıklar
-  @regression
-  Scenario: TC09 Doktor olarak Appointment sayfasindan hastalarin aldiklari randevularin goruntulenmesini istiyorum
+  @regression1
+  Scenario:Doktor olarak Appointment sayfasindan hastalarin aldiklari randevularin goruntulenmesini istiyorum
     And Doktor sitenin Appointment sayfasında randevuları goruntuler
     And Doktor browser kapatır
   @regression
@@ -33,10 +33,10 @@ Feature: Doktor olarak Dashboard SideBar'indaki Appointment sayfasindan hastalar
     Then Doktor Patient Queue arnan kelime listelenenle aynı olmalı
     And Doktor browser kapatır
 
-  @regression
+  @regression1
 
 
-  Scenario: TC13 Appointment sayfasinda Appointment Details Listeleme seçeneklerinin görüntülenmesini istiyorum.
+  Scenario:Appointment sayfasinda Appointment Details Listeleme seçeneklerinin görüntülenmesini istiyorum.
     And Doktor sitenin Appointment sayfasında Appointment Details Listeleme seçeneklerini goruntuler
     And Doktor browser kapatır
 

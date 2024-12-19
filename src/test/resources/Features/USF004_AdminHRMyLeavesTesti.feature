@@ -1,6 +1,6 @@
 @smoke
 Feature: Admin kullanici olarak admin panelinde izinlerimi "My Leaves" sayfasinda yonetebilmek istiyorum.
-  @regression
+  @regression1
 
   Scenario:Admin giris
     Given Admin kullanici giris bilgileri ile sisteme login olur

@@ -1,0 +1,47 @@
+<environment>
+    <parameter>
+        <key>Browser</key>
+        <value>Chrome 98</value>
+        <description>Kullanıcıların tarayıcı deneyimi Chrome üzerinde test edildi</description>
+    </parameter>
+    <parameter>
+        <key>OS</key>
+        <value>Windows 11</value>
+        <description>Kullanıcıların deneyimlediği işletim sistemi üzerinde test edildi</description>
+    </parameter>
+    <parameter>
+        <key>API Endpoint</key>
+        <value>ENC[EncryptedAPIEndpoint]</value>
+        <description>API adresi, verilerin güvenliğini sağlamak için şifrelenmiştir</description>
+    </parameter>
+    <parameter>
+        <key>Application Version</key>
+        <value>v1.5.3</value>
+        <description>Test edilen uygulamanın kullanıcıya sunulan sürümü</description>
+    </parameter>
+    <parameter>
+        <key>Test Framework</key>
+        <value>JUnit 5 ve Cucumber</value>
+        <description>Kullanıcı senaryoları JUnit 5 ve Cucumber kullanılarak doğrulandı</description>
+    </parameter>
+    <parameter>
+        <key>Feature Files Path</key>
+        <value>src/test/resources/features</value>
+        <description>Test senaryolarının yazıldığı dosya yolu</description>
+    </parameter>
+    <parameter>
+        <key>Step Definitions Path</key>
+        <value>src/test/java/steps</value>
+        <description>Test adımlarının kodlandığı dosya yolu</description>
+    </parameter>
+    <parameter>
+        <key>Execution Mode</key>
+        <value>Sequential</value>
+        <description>Testler adım adım çalıştırılarak tüm senaryolar doğrulandı</description>
+    </parameter>
+    <parameter>
+        <key>Build Number</key>
+        <value>#1245</value>
+        <description>Yapılan değişikliklerin doğrulandığı işlem numarası</description>
+    </parameter>
+</environment>

@@ -1,6 +1,6 @@
 @smoke
 Feature: TPA Management Sayfasına Yönlendirme
-  @regression
+  @regression1
   Scenario: TPA Yönetim Sayfasına Yönlendirme
     Given Kullanici Heal Life "HLadminUrl"  girer
     When Admin mail "AdminMailLevent"  ve password "Passwords" ile sign in olur
@@ -17,7 +17,7 @@ Feature: TPA Management Sayfasına Yönlendirme
     Then Görüntülenen kayıt sayısını değiştirmek için yuz ve all seçeneklerinin mevcut olduğunu doğrular
     Then Her bir sütun başlığına tıklayarak listenin sıralanabildiğini doğrular
     When Kullanıcı browser kapatır
-  @regression
+  @regression1
   Scenario: Yeni TPA kaydı ekleme ve doğrulama
     When Admin mail "AdminMailLevent"  ve password "Passwords" ile sign in olur
     When Dashboard yan menüsünden "TPA Management" bağlantısını tıkla
@@ -25,7 +25,7 @@ Feature: TPA Management Sayfasına Yönlendirme
     When TPA Ekleme penceresindeki tüm alanlara geçerli veriler girer ve Save düğmesine tıklar
     Then Yeni kaydın TPA Yönetim Listesinde görüntülendiğini doğrular
     When Kullanıcı browser kapatır
-  @regression
+  @regression1
   Scenario: TPA Yönetim Listesinde bir kaydın düzenlenmesi, silinmesi ve sıralanması
     When Admin mail "AdminMailLevent"  ve password "Passwords" ile sign in olur
     When Dashboard yan menüsünden "TPA Management" bağlantısını tıkla

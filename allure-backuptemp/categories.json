@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Kritik Hatalar",
+    "description": "Kritik öneme sahip test senaryolarında oluşan hatalar.",
+    "matchedStatuses": ["failed"],
+    "traceRegex": ".*NullPointerException.*|.*Critical.*",
+    "color": "red"
+  },
+  {
+    "name": "UI Test Hataları",
+    "description": "Kullanıcı arayüzüne bağlı testlerdeki hatalar.",
+    "matchedStatuses": ["failed"],
+    "messageRegex": ".*ElementNotFound.*|.*NoSuchElementException.*",
+    "color": "orange"
+  },
+  {
+    "name": "API Test Hataları",
+    "description": "API testlerinde karşılaşılan hatalar (ör: 500, timeout).",
+    "matchedStatuses": ["failed"],
+    "traceRegex": ".*HttpServerErrorException.*|.*TimeoutException.*",
+    "color": "purple"
+  },
+  {
+    "name": "Uyarılarla Geçen Testler",
+    "description": "Başarılı olan ancak uyarı içeren testler.",
+    "matchedStatuses": ["passed"],
+    "messageRegex": ".*warning.*|.*deprecated.*",
+    "color": "yellow"
+  },
+  {
+    "name": "Performans Sorunları",
+    "description": "Performans sınırlarını aşan test senaryoları.",
+    "matchedStatuses": ["passed"],
+    "traceRegex": ".*Timeout.*|.*Slow.*",
+    "color": "blue"
+  },
+  {
+    "name": "Bilinen Sorunlar",
+    "description": "Sistemde bilinen sorunlardan kaynaklanan hatalar.",
+    "matchedStatuses": ["failed"],
+    "traceRegex": ".*BugID-[0-9]+.*",
+    "color": "cyan"
+  },
+  {
+    "name": "Atlanan Testler",
+    "description": "Bilerek çalıştırılmayan testler.",
+    "matchedStatuses": ["skipped"],
+    "color": "gray"
+  },
+  {
+    "name": "Altyapı Sorunları",
+    "description": "Ortam veya altyapı kaynaklı hatalar.",
+    "matchedStatuses": ["failed"],
+    "traceRegex": ".*ConnectionRefused.*|.*DatabaseError.*|.*Infrastructure.*",
+    "color": "brown"
+  }
+]

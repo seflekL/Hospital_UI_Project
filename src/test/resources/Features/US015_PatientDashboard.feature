@@ -1,15 +1,15 @@
 @smoke
 Feature:Dashboard paneline giris
-  @regression
-  Scenario:TC01 Login olma   Ana sayfadaki giriş işlevine erişmek istiyorum
+  @regression1
+  Scenario:Login olma Ana sayfadaki giriş işlevine erişmek istiyorum
   Böylece giriş yapıp kontrol paneline ulaşabilirim
 
     Given kullanici URL'i acar
     And Kullanıcı email adresini girer
     And Gecerli password girer
 
-  @regression
-  Scenario: TC02  Geçersiz giriş ve şifremi unuttum işlevi
+  @regression1
+  Scenario:Geçersiz giriş ve şifremi unuttum işlevi
     Given kullanici URL'i acar
     When password bolumune yanlis data girilir
     And Forgot Password'a tiklar

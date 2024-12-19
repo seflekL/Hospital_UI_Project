@@ -7,8 +7,8 @@ Feature: Bir yönetici (admin) olarak, hastane isleyisi ve hasta yönetimi ile i
     Then Login sayfasinin sol tarafinda Latest New penceresi görüntülendigini dogrular
     And Sayfayi Kapatir
 
-  @regression
-  Scenario: TC02 Doğru bilgiler ile admin  panele giriş testi
+  @regression1
+  Scenario: Doğru bilgiler ile admin  panele giriş testi
     Given Kullanici Heal Life "HLadminUrl"  girer
     When User Name Box tiklar
     Then Gecerli User Name "AdminLevent" Girer
@@ -30,8 +30,8 @@ Feature: Bir yönetici (admin) olarak, hastane isleyisi ve hasta yönetimi ile i
     And Admin paneline giris yapilamadigini dogrular
     Then Sayfayi Kapatir
 
-  @regression
-  Scenario: TC04 Forgot Password bağlantısının görünürlüğünü ve işlevselliğini doğrulama testi
+  @regression1
+  Scenario:Forgot Password bağlantısının görünürlüğünü ve işlevselliğini doğrulama testi
     Given  Kullanici Heal Life "HLadminUrl"  girer
     Then Forgot Password yazisinin gorunurlugunu dogrular
     Then Forgot Password'a tiklar

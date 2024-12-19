@@ -1,7 +1,7 @@
 @smoke
 Feature: Admin kullanici olarak Insan Kaynaklari(HR) Sayfasindan Personel Bilgilerine Erismek Istiyorum
 
-  @regression
+  @regression1
 
   Scenario: Insan Kaynaklari Sayfasina Erisim
 

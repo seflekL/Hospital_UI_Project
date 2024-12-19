@@ -1,7 +1,7 @@
 @smoke
 Feature: Contact Us sayfasına erişim
 
-  @regression
+  @regression1
   Scenario: Contact us sayfasına erişim
 
     Given Kullanici anasayfaya gider
@@ -9,8 +9,8 @@ Feature: Contact Us sayfasına erişim
     Then Kullanici contact_us sayfasina acildigini dogrular
     And  Kullanici sayfayi kapatir
 
-  @regression
-  Scenario: TC02 kuallanıcı contact as sayfasında box doldurur.
+  @regression1
+  Scenario:Kullanıcı contact as sayfasında box doldurur.
     Given Kullanici anasayfaya gider
     When Kullanici contact_us linkine tiklar
     And Kullanıcı ismini girer

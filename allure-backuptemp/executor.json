@@ -1,0 +1,8 @@
+{
+  "name": "GitHub",
+  "type": "Local",
+  "url": "https://github.com/seflekL/Hospital_UI_Project",
+  "buildName": "Local Test Run",
+  "buildUrl": "https://github.com/seflekL/Hospital_UI_Project",
+  "reportUrl": "http://localhost:5000/allure-report"
+}

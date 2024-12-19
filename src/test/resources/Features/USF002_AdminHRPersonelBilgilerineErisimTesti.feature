@@ -1,6 +1,6 @@
 @smoke
 Feature: Admin kullanici olarak admin panelinde sisteme kayitli tum calisanlarin bilgilerine erisebilmek istiyorum
-
+  @regression1
   Scenario: Admin kullanici giris bilgileri ile sisteme login olma testi
     Given Admin kullanici giris bilgileri ile sisteme login olur
     And Staff Directory Sayfasina gider

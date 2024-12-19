@@ -1,6 +1,6 @@
 @smoke
 Feature: Ambulance Test Reports Page
-  @regression
+  @regression1
   Scenario: Kullanici sisteme giris yapar.
     Given kullanici URL'i acar
     And kullanıcı "{string}" ve "{string}" ile giriş yapar

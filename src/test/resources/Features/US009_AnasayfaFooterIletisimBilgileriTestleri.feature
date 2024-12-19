@@ -1,6 +1,6 @@
 @smoke
 Feature: US009 Kullanici ana sayfa alt barinda iletisim bilgilerini gorur
-  @regression
+  @regression1
   Scenario:TC01 Ana sayfa alt barında telefon, e-posta ve adres bilgilerini gormeli
 
     Given Url "HLurl" girer
@@ -19,7 +19,7 @@ Feature: US009 Kullanici ana sayfa alt barinda iletisim bilgilerini gorur
       Then Mail'e tiklanabildigini dogrular
       Then Contact Us sayfasina yonlendirildigini dogrular
       And Sayfayi Kapatir
-  @regression
+  @regression1
   Scenario: TC04 Ana sayfa alt bar Address'in görünürlüğü ve islevselliği
     Given Url "HLurl" girer
     When Anasayfa alt Barinda Adress'e tiklar

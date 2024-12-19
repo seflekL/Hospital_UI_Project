@@ -2,9 +2,9 @@
 
 Feature: TPA Management Sayfası Temel Özellikleri ve İşlevselliği
 
-  @regression
+  @regression1
 
-  Scenario: Kullanici sisteme giris yapar.
+  Scenario:Kullanici sisteme giris yapar.
     Given kullanici "HLadminUrl" adresine gider
     And geçerli bir email adresi "DoctorMailLevent" ve sifre "Passwords" girer
     When Sign In butonuna tıklar
@@ -23,7 +23,7 @@ Feature: TPA Management Sayfası Temel Özellikleri ve İşlevselliği
       | Contact Person Name  |
       | Contact Person Phone |
 
-  @regression
+  @regression1
 
   Scenario: Tablo öğelerinin kolonlara göre listelenebildiğinin doğrulanması
     Then kullanici tablo öğelerinin kolonlara göre listelenebildiğini doğrular
@@ -38,7 +38,7 @@ Feature: TPA Management Sayfası Temel Özellikleri ve İşlevselliği
   Scenario: İçeriğin sayfa başına gösterilecek miktarının seçilebilmesi
     Then kullanici sayfadaki içeriğin görüntüleneceği sayfa sayısını 100 ya da "All" olarak seçebileceğini doğrular
 
-  @regression
+  @regression1
 
   Scenario: Organization butonunun yönlendirme yapıp yapmadığının doğrulanması
     When kullanici "Contact Person Phone" altındaki "Organization" butonuna tıklar
