@@ -1,10 +1,11 @@
+@smoke
 Feature: US004_Bir kullanici olarak hastaneye ait bilgilere kolay erisim icin
          ana sayfada boardlarin olmasini istiyorum.
 
   Background:
     Given Browser aç ve HLurl adersine git
     When Sayfayı kaydır
-
+@regression
   Scenario: TC01_Insurance Plans,Pediatric Services, Lab Testing board'larının görünür olması testi
 
   And Insurance Plans görünür olduğunu doğrula
@@ -12,7 +13,7 @@ Feature: US004_Bir kullanici olarak hastaneye ait bilgilere kolay erisim icin
   Then Lab Testing görünür olduğunu doğrula
   And Sayfayı kapat
 
-
+  @regression
   Scenario: TC02_Insurance Plans,Pediatric Services, Lab Testing board'ları altındaki read more butonunun
             ilgili sayfaya yönlendirmesi testi
 

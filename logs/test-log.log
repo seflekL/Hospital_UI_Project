@@ -319,3 +319,1162 @@
 2024-12-18 23:45:09 [main] INFO  StepDefinitions.PatientStep - Kullanıcı sayfayı kapattı.
 2024-12-18 23:45:09 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC_001 AAbout Us dropdown seceneklerinin dogru sekilde goruntulenmesi dogrulanmalidir.
 2024-12-18 23:45:09 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 09:44:05 [main] INFO  utilities.LoggerHelper - Test Başlıyor: : Kullanici sisteme giris yapar.
+2024-12-19 09:44:07 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 09:44:09 [main] INFO  StepDefinitions.LoginStep - Kullanıcı adresine gitti.
+2024-12-19 09:44:09 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: : Kullanici sisteme giris yapar.
+2024-12-19 09:44:09 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 09:44:16 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Pharmacy sayfasi dogrulanmasi
+2024-12-19 09:44:18 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 09:44:28 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Pharmacy sayfasi dogrulanmasi
+2024-12-19 09:44:28 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 09:44:33 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Pharmacy Bill listesi tablo basliklarinin dogrulanmasi
+2024-12-19 09:44:35 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 09:44:42 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Pharmacy Bill listesi tablo basliklarinin dogrulanmasi
+2024-12-19 09:44:42 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 09:45:24 [main] INFO  utilities.LoggerHelper - Test Başlıyor: : Kullanici sisteme giris yapar.
+2024-12-19 09:45:26 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 09:45:27 [main] INFO  StepDefinitions.LoginStep - Kullanıcı adresine gitti.
+2024-12-19 09:45:27 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: : Kullanici sisteme giris yapar.
+2024-12-19 09:45:27 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 09:45:38 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Pathology sayfasi dogrulanmasi
+2024-12-19 09:45:40 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 09:45:47 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Pathology sayfasi dogrulanmasi
+2024-12-19 09:45:47 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 09:46:31 [main] INFO  utilities.LoggerHelper - Test Başlıyor: : Kullanici sisteme giris yapar.
+2024-12-19 09:46:33 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 09:46:34 [main] INFO  StepDefinitions.LoginStep - Kullanıcı adresine gitti.
+2024-12-19 09:46:34 [main] INFO  StepDefinitions.LoginStep - Geçerli bir email adresi ve şifre girildi.
+2024-12-19 09:46:35 [main] INFO  StepDefinitions.LoginStep - Sign In butonuna tıklandı.
+2024-12-19 09:46:37 [main] INFO  StepDefinitions.LoginStep - Dashboard düzgün bir şekilde görüntülendi.
+2024-12-19 09:46:37 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: : Kullanici sisteme giris yapar.
+2024-12-19 09:46:37 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 09:47:21 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Kullanici sisteme giris yapar.
+2024-12-19 09:47:23 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 09:47:27 [main] INFO  StepDefinitions.PatientStep - Url acildigini dogruladi
+2024-12-19 09:47:29 [main] INFO  StepDefinitions.PatientStep - Kullanıcı belirtilen kullanıcı adı ve şifre ile giriş yaptı.
+2024-12-19 09:47:33 [main] INFO  StepDefinitions.PatientStep - Sign In butonuna tıklandı.
+2024-12-19 09:47:33 [main] INFO  StepDefinitions.PatientStep - Dashboard düzgün bir şekilde görüntülendi.
+2024-12-19 09:47:33 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Kullanici sisteme giris yapar.
+2024-12-19 09:47:35 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 09:48:01 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Kullanici sisteme giris yapar.
+2024-12-19 09:48:03 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 09:48:06 [main] INFO  StepDefinitions.PatientStep - Url acildigini dogruladi
+2024-12-19 09:48:09 [main] INFO  StepDefinitions.PatientStep - Kullanıcı belirtilen kullanıcı adı ve şifre ile giriş yaptı.
+2024-12-19 09:48:12 [main] INFO  StepDefinitions.PatientStep - Sign In butonuna tıklandı.
+2024-12-19 09:48:12 [main] INFO  StepDefinitions.PatientStep - Dashboard düzgün bir şekilde görüntülendi.
+2024-12-19 09:48:12 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Kullanici sisteme giris yapar.
+2024-12-19 09:48:12 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 09:48:44 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Kullanici sisteme giris yapar.
+2024-12-19 09:48:46 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 09:48:49 [main] INFO  StepDefinitions.PatientStep - Url acildigini dogruladi
+2024-12-19 09:48:51 [main] INFO  StepDefinitions.PatientStep - Kullanıcı belirtilen kullanıcı adı ve şifre ile giriş yaptı.
+2024-12-19 09:48:56 [main] INFO  StepDefinitions.PatientStep - Sign In butonuna tıklandı.
+2024-12-19 09:48:56 [main] INFO  StepDefinitions.PatientStep - Dashboard düzgün bir şekilde görüntülendi.
+2024-12-19 09:48:56 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Kullanici sisteme giris yapar.
+2024-12-19 09:48:56 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 09:50:26 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Kullanici sisteme giris yapar.
+2024-12-19 09:50:28 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 09:50:31 [main] INFO  StepDefinitions.PatientStep - Url acildigini dogruladi
+2024-12-19 09:50:34 [main] INFO  StepDefinitions.PatientStep - Kullanıcı belirtilen kullanıcı adı ve şifre ile giriş yaptı.
+2024-12-19 09:50:37 [main] INFO  StepDefinitions.PatientStep - Sign In butonuna tıklandı.
+2024-12-19 09:50:37 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Kullanici sisteme giris yapar.
+2024-12-19 09:50:37 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 09:51:49 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Admin Dashboard kullanbilirlik testi
+2024-12-19 09:51:51 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 09:51:52 [main] INFO  StepDefinitions.LoginStep - Kullanıcı Heal Life adresine gitti.
+2024-12-19 09:51:56 [main] INFO  StepDefinitions.AdminDashboardStep - Admin mail AdminMailKubra ve password ile giriş yaptı.
+2024-12-19 09:51:56 [main] INFO  StepDefinitions.AdminDashboardStep - Sidebar ikonuna tıklandı.
+2024-12-19 09:51:56 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Admin Dashboard kullanbilirlik testi
+2024-12-19 09:51:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 09:53:13 [main] INFO  utilities.LoggerHelper - Test Başlıyor: : Gallery dogrulama testi
+2024-12-19 09:53:14 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 09:53:16 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-19 09:53:16 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: : Gallery dogrulama testi
+2024-12-19 09:53:17 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 09:55:51 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Sidebar dogrulama testi
+2024-12-19 09:55:53 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 09:55:54 [main] INFO  StepDefinitions.LoginStep - Kullanıcı Heal Life adresine gitti.
+2024-12-19 09:55:58 [main] INFO  StepDefinitions.AdminDashboardStep - Admin mail AdminMailLevent ve password ile giriş yaptı.
+2024-12-19 09:55:58 [main] INFO  StepDefinitions.AdminDashboardStep - Sidebar ikonuna tıklandı.
+2024-12-19 09:55:58 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Sidebar dogrulama testi
+2024-12-19 09:55:58 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 09:55:58 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Appointment ogesinin gorunurluğunu ve islevselligini  test etme
+2024-12-19 09:56:00 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 09:56:15 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Appointment ogesinin gorunurluğunu ve islevselligini  test etme
+2024-12-19 09:56:15 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 09:56:15 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Appoinment sayfasi Patient Name, Appointment No, Appointment Date, Phone, Gender, Doctor, Source, Priorty, Fees, Status basliklari gorunurluk testi
+2024-12-19 09:56:16 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 09:56:31 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Appoinment sayfasi Patient Name, Appointment No, Appointment Date, Phone, Gender, Doctor, Source, Priorty, Fees, Status basliklari gorunurluk testi
+2024-12-19 09:56:31 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 09:56:31 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Patient Name liste basligi uzerinden siralama yapma testi
+2024-12-19 09:56:32 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 09:56:47 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Patient Name liste basligi uzerinden siralama yapma testi
+2024-12-19 09:56:47 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 09:56:47 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Search Box gorunurlugu ve islevselligi testi
+2024-12-19 09:56:48 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 09:57:03 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Search Box gorunurlugu ve islevselligi testi
+2024-12-19 09:57:03 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 09:57:03 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Search Box gorunurlugu ve islevselligi testi
+2024-12-19 09:57:04 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 09:57:19 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Search Box gorunurlugu ve islevselligi testi
+2024-12-19 09:57:19 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 09:57:19 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Doktor wise butonu gorunurlugu ve aktifligi testi
+2024-12-19 09:57:20 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 09:57:35 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Doktor wise butonu gorunurlugu ve aktifligi testi
+2024-12-19 09:57:36 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 09:57:36 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Doktor ve Date secilerek filtreleme testi
+2024-12-19 09:57:37 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 09:57:52 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Doktor ve Date secilerek filtreleme testi
+2024-12-19 09:57:52 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 09:57:52 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Queue butonu gorunurlugu ve aktifligi testi
+2024-12-19 09:57:53 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 09:58:08 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Queue butonu gorunurlugu ve aktifligi testi
+2024-12-19 09:58:08 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 09:58:08 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Doktor dogrulama testi
+2024-12-19 09:58:10 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 09:58:25 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Doktor dogrulama testi
+2024-12-19 09:58:25 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:00:46 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Doktor sisteme giriş yapar
+2024-12-19 10:00:48 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:00:49 [main] INFO  StepDefinitions.DoctorStep - Doktor geçerli url ile giriş yaptı.
+2024-12-19 10:00:49 [main] INFO  StepDefinitions.DoctorStep - Geçerli User Name girildi.
+2024-12-19 10:00:49 [main] INFO  StepDefinitions.DoctorStep - Geçerli password girildi.
+2024-12-19 10:00:51 [main] INFO  StepDefinitions.LoginStep - Sign In butonuna tıklandı.
+2024-12-19 10:00:51 [main] INFO  StepDefinitions.LoginStep - Heal Life logosu başarılı bir şekilde görüntüleniyor.
+2024-12-19 10:00:51 [main] INFO  StepDefinitions.LoginStep - Heal Life logosu görüntülendi.
+2024-12-19 10:00:51 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Doktor sisteme giriş yapar
+2024-12-19 10:00:51 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:07:29 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Doktor, randevulu hastaasına sistem üzerinden ilaç yazar ve fatura oluşturur.
+2024-12-19 10:07:31 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:07:35 [main] INFO  StepDefinitions.DoctorStep - Doktor siteye gitti.
+2024-12-19 10:07:39 [main] INFO  StepDefinitions.DoctorStep - Doktor email ve password ile giriş yaptı.
+2024-12-19 10:07:44 [main] INFO  StepDefinitions.AppointmentStep - Pharmacy sayfasına tıklandı.
+2024-12-19 10:07:46 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Doktor Generate Bill Butonuna basildi
+2024-12-19 10:07:51 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Hasta id'si 259 olarak secildi
+2024-12-19 10:07:53 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Medicine Category olarak Capsule secildi
+2024-12-19 10:07:55 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Medicine Name olarak WORMSTOP secildi
+2024-12-19 10:07:58 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Batch No olarak 1520 secildi
+2024-12-19 10:07:59 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Quantity olarak 3 yazildi
+2024-12-19 10:08:05 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Hospital Doctor olarak Levent secildi
+2024-12-19 10:08:05 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Save butonuna basildi
+2024-12-19 10:08:06 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Save butonuna basildi
+2024-12-19 10:08:10 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Success mesaji gorundu
+2024-12-19 10:08:10 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Listede hasta ismi dogru
+2024-12-19 10:08:12 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Listede hasta ismi dogru
+2024-12-19 10:08:12 [main] ERROR StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Listede hasta ismi yanlis
+2024-12-19 10:08:12 [main] INFO  StepDefinitions.DoctorStep - Browser kapatıldı.
+2024-12-19 10:08:12 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Doktor, randevulu hastaasına sistem üzerinden ilaç yazar ve fatura oluşturur.
+2024-12-19 10:08:12 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:08:12 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC_01 Kullanıcı qa.heallifehospital.com URL'ine ulaşabilmelidir.
+2024-12-19 10:08:13 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:08:23 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC_01 Kullanıcı qa.heallifehospital.com URL'ine ulaşabilmelidir.
+2024-12-19 10:08:23 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:08:24 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC_02 Sosyal medya ikonlarının ilgili hesaplara yönlendirdiğinin doğrulanması testi
+2024-12-19 10:08:25 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:08:46 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC_02 Sosyal medya ikonlarının ilgili hesaplara yönlendirdiğinin doğrulanması testi
+2024-12-19 10:08:47 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:47:34 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Doktor, randevulu hastaasına sistem üzerinden ilaç yazar ve fatura oluşturur.
+2024-12-19 10:47:36 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:47:39 [main] INFO  StepDefinitions.DoctorStep - Doktor siteye gitti.
+2024-12-19 10:47:45 [main] INFO  StepDefinitions.DoctorStep - Doktor email ve password ile giriş yaptı.
+2024-12-19 10:47:50 [main] INFO  StepDefinitions.AppointmentStep - Pharmacy sayfasına tıklandı.
+2024-12-19 10:47:52 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Doktor Generate Bill Butonuna basildi
+2024-12-19 10:47:57 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Hasta id'si 259 olarak secildi
+2024-12-19 10:47:59 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Medicine Category olarak Capsule secildi
+2024-12-19 10:48:02 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Medicine Name olarak WORMSTOP secildi
+2024-12-19 10:48:04 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Batch No olarak 1520 secildi
+2024-12-19 10:48:05 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Quantity olarak 3 yazildi
+2024-12-19 10:48:11 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Hospital Doctor olarak Levent secildi
+2024-12-19 10:48:11 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Save butonuna basildi
+2024-12-19 10:48:12 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Save butonuna basildi
+2024-12-19 10:48:16 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Success mesaji gorundu
+2024-12-19 10:48:16 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Listede hasta ismi dogru
+2024-12-19 10:48:18 [main] INFO  StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Listede hasta ismi dogru
+2024-12-19 10:48:18 [main] ERROR StepDefinitions.Admin_Pharmacy_Pathology_RadiologyStep - Listede hasta ismi yanlis
+2024-12-19 10:48:18 [main] INFO  StepDefinitions.DoctorStep - Browser kapatıldı.
+2024-12-19 10:48:18 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Doktor, randevulu hastaasına sistem üzerinden ilaç yazar ve fatura oluşturur.
+2024-12-19 10:48:18 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:48:19 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01 Belirlenmiş URL ile siteye erişebilmeliyim
+2024-12-19 10:48:20 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:48:21 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-19 10:48:22 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı bulunduğu URL ile belirlenmiş URL doğru.
+2024-12-19 10:48:22 [main] INFO  StepDefinitions.HomePageStep - Site başlığı beklenen ile aynı
+2024-12-19 10:48:22 [main] INFO  StepDefinitions.HomePageStep - Browser kapatıldı.
+2024-12-19 10:48:22 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC01 Belirlenmiş URL ile siteye erişebilmeliyim
+2024-12-19 10:48:22 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:48:22 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Header'daki elementlerin gorunurlugunu dogrulama
+2024-12-19 10:48:23 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:48:24 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-19 10:48:28 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Header'daki elementlerin gorunurlugunu dogrulama
+2024-12-19 10:48:28 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:48:28 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Website logosunun islev testi
+2024-12-19 10:48:29 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:48:32 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-19 10:48:33 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Website logosunun islev testi
+2024-12-19 10:48:33 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:48:33 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Menu navigasyon islev testi
+2024-12-19 10:48:35 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:48:37 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-19 10:48:37 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Menu navigasyon islev testi
+2024-12-19 10:48:37 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:48:38 [main] INFO  utilities.LoggerHelper - Test Başlıyor: [TC_001 > US_03] Ana sayfa kaydırıcısında görsellerin görüntülenmesi ve otomatik değişimi
+2024-12-19 10:48:39 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:48:40 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: [TC_001 > US_03] Ana sayfa kaydırıcısında görsellerin görüntülenmesi ve otomatik değişimi
+2024-12-19 10:48:41 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:48:41 [main] INFO  utilities.LoggerHelper - Test Başlıyor: [TC_002 > US_04] Ana sayfa slider'inde gecis ikonu kullanilarak gorseller arasinda gecis yapilmasi
+2024-12-19 10:48:42 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:48:43 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: [TC_002 > US_04] Ana sayfa slider'inde gecis ikonu kullanilarak gorseller arasinda gecis yapilmasi
+2024-12-19 10:48:44 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:48:44 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01_Insurance Plans,Pediatric Services, Lab Testing board'larının görünür olması testi
+2024-12-19 10:48:45 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:48:47 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC01_Insurance Plans,Pediatric Services, Lab Testing board'larının görünür olması testi
+2024-12-19 10:48:47 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:48:47 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC02_Insurance Plans,Pediatric Services, Lab Testing board'ları altındaki read more butonunun
+2024-12-19 10:48:48 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:49:00 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC02_Insurance Plans,Pediatric Services, Lab Testing board'ları altındaki read more butonunun
+2024-12-19 10:49:00 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:49:00 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01_Ana sayfada Featured Services yazısı ve altında
+2024-12-19 10:49:01 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:49:03 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC01_Ana sayfada Featured Services yazısı ve altında
+2024-12-19 10:49:03 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:49:03 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01 "Our Doctors" başlığı altındaki doktorlar doğru şekilde listeleniyor
+2024-12-19 10:49:05 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:49:07 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC01 "Our Doctors" başlığı altındaki doktorlar doğru şekilde listeleniyor
+2024-12-19 10:49:07 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:49:07 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC_01 Kullanıcı qa.heallifehospital.com URL'ine ulaşabilmelidir.
+2024-12-19 10:49:08 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:49:18 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC_01 Kullanıcı qa.heallifehospital.com URL'ine ulaşabilmelidir.
+2024-12-19 10:49:18 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:49:18 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC_02 Sosyal medya ikonlarının ilgili hesaplara yönlendirdiğinin doğrulanması testi
+2024-12-19 10:49:19 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:49:40 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC_02 Sosyal medya ikonlarının ilgili hesaplara yönlendirdiğinin doğrulanması testi
+2024-12-19 10:49:41 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:49:41 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01 kullanıcı anasayfa alt brdaki butonların yönlendirmelerini kontrol eder.
+2024-12-19 10:49:42 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:49:44 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC01 kullanıcı anasayfa alt brdaki butonların yönlendirmelerini kontrol eder.
+2024-12-19 10:49:44 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:49:44 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01 Ana sayfa alt barında telefon, e-posta ve adres bilgilerini gormeli
+2024-12-19 10:49:45 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:49:50 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC01 Ana sayfa alt barında telefon, e-posta ve adres bilgilerini gormeli
+2024-12-19 10:49:50 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:49:50 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC02 Kullanici alt bar Contact'a tikladiginda Contact Us sayfasian yonlendirilir
+2024-12-19 10:49:51 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:49:55 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC02 Kullanici alt bar Contact'a tikladiginda Contact Us sayfasian yonlendirilir
+2024-12-19 10:49:55 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:49:55 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC03 Ana sayfa alt bar Mail'in görünürlüğü ve ilevselliği
+2024-12-19 10:49:56 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:50:01 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC03 Ana sayfa alt bar Mail'in görünürlüğü ve ilevselliği
+2024-12-19 10:50:01 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:50:01 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC04 Ana sayfa alt bar Address'in görünürlüğü ve islevselliği
+2024-12-19 10:50:02 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:50:09 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC04 Ana sayfa alt bar Address'in görünürlüğü ve islevselliği
+2024-12-19 10:50:09 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:50:09 [main] INFO  utilities.LoggerHelper - Test Başlıyor: About Us dropdown ve About Hospitals sayfa testi
+2024-12-19 10:50:09 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:50:11 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-19 10:50:11 [main] INFO  StepDefinitions.AboutUsStep - {menuName} menüsünün üzerine gelindi.
+2024-12-19 10:50:12 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, About Hospitals sayfasına yönlendirildiğini doğruladı.
+2024-12-19 10:50:13 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Meet Our Doctors sayfasına yönlendirildiğini doğruladı.
+2024-12-19 10:50:14 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, FAQ's sayfasına yönlendirildiğini doğruladı.
+2024-12-19 10:50:15 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Departments sayfasına yönlendirildiğini doğruladı.
+2024-12-19 10:50:15 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Testimonials sayfasına yönlendirildiğini doğruladı.
+2024-12-19 10:50:16 [main] INFO  StepDefinitions.HomePageStep - Browser kapatıldı.
+2024-12-19 10:50:16 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: About Us dropdown ve About Hospitals sayfa testi
+2024-12-19 10:50:16 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:50:16 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Kullanıcı "About Us" menüsünden "About Hospitals" başlığına gider ve ilgili başlıkları doğrular
+2024-12-19 10:50:16 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:50:18 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-19 10:50:18 [main] INFO  StepDefinitions.AboutUsStep - {menuName} menüsünün üzerine gelindi.
+2024-12-19 10:50:19 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, About Hospitals sayfasına yönlendirildiğini doğruladı.
+2024-12-19 10:50:19 [main] INFO  StepDefinitions.AboutUsStep - Some Words About Us başlığının sayfada göründüğü doğrulandı.
+2024-12-19 10:50:19 [main] INFO  StepDefinitions.AboutUsStep - Our Mission başlığının sayfada göründüğü doğrulandı.
+2024-12-19 10:50:19 [main] INFO  StepDefinitions.AboutUsStep - Opening Hours bilgisinin sayfada göründüğü doğrulandı.
+2024-12-19 10:50:19 [main] INFO  StepDefinitions.AboutUsStep - Our Specialist başlığının sayfada göründüğü doğrulandı.
+2024-12-19 10:50:19 [main] INFO  StepDefinitions.AboutUsStep - Heidi Prather'in resmi, isim ve unvanının Our Specialist başlığı altında olduğu doğrulandı.
+2024-12-19 10:50:19 [main] INFO  StepDefinitions.AboutUsStep - Alexander M. Simotas'ın resmi, isim ve unvanının Our Specialist başlığı altında olduğu doğrulandı.
+2024-12-19 10:50:19 [main] INFO  StepDefinitions.AboutUsStep - Jesse N. Charnoff'ın resmi, isim ve unvanının Our Specialist başlığı altında olduğu doğrulandı.
+2024-12-19 10:50:20 [main] INFO  StepDefinitions.AboutUsStep - George Cyril'in resmi, isim ve unvanının Our Specialist başlığı altında olduğu doğrulandı.
+2024-12-19 10:50:20 [main] INFO  StepDefinitions.HomePageStep - Browser kapatıldı.
+2024-12-19 10:50:20 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Kullanıcı "About Us" menüsünden "About Hospitals" başlığına gider ve ilgili başlıkları doğrular
+2024-12-19 10:50:20 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:50:20 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Kullanıcı Meet Our Doctors sayfasını doğrular
+2024-12-19 10:50:21 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:50:22 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-19 10:50:23 [main] INFO  StepDefinitions.AboutUsStep - {menuName} menüsünün üzerine gelindi.
+2024-12-19 10:50:24 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Meet Our Doctors sayfasına yönlendirildiğini doğruladı.
+2024-12-19 10:50:24 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, doktorların uzmanlık alanlarına göre gruplandığı menüyü gördü.
+2024-12-19 10:50:24 [main] INFO  StepDefinitions.AboutUsStep - Menüdeki uzmanlık alanları kontrol ediliyor.
+2024-12-19 10:50:24 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, General Practitioner uzmanlık alanındaki doktorların isimlerini, unvanlarını ve resimlerini gördü.
+2024-12-19 10:50:24 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, General Practitioner uzmanlık alanındaki doktorların isimlerini, unvanlarını ve resimlerini gördü.
+2024-12-19 10:50:24 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, General Practitioner uzmanlık alanındaki doktorların isimlerini, unvanlarını ve resimlerini gördü.
+2024-12-19 10:50:24 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Ophthalmologist uzmanlık alanındaki doktorların isimlerini, unvanlarını ve resimlerini gördü.
+2024-12-19 10:50:24 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Ophthalmologist uzmanlık alanındaki doktorların isimlerini, unvanlarını ve resimlerini gördü.
+2024-12-19 10:50:25 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Ophthalmologist uzmanlık alanındaki doktorların isimlerini, unvanlarını ve resimlerini gördü.
+2024-12-19 10:50:25 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Ophthalmologist uzmanlık alanındaki doktorların isimlerini, unvanlarını ve resimlerini gördü.
+2024-12-19 10:50:25 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Ophthalmologist uzmanlık alanındaki doktorların isimlerini, unvanlarını ve resimlerini gördü.
+2024-12-19 10:50:25 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Ophthalmologist uzmanlık alanındaki doktorların isimlerini, unvanlarını ve resimlerini gördü.
+2024-12-19 10:50:25 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Paediatrician uzmanlık alanındaki doktorların isimlerini, unvanlarını ve resimlerini gördü.
+2024-12-19 10:50:25 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Paediatrician uzmanlık alanındaki doktorların isimlerini, unvanlarını ve resimlerini gördü.
+2024-12-19 10:50:25 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Paediatrician uzmanlık alanındaki doktorların isimlerini, unvanlarını ve resimlerini gördü.
+2024-12-19 10:50:25 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Cardiologist uzmanlık alanındaki doktorların isimlerini, unvanlarını ve resimlerini gördü.
+2024-12-19 10:50:25 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Cardiologist uzmanlık alanındaki doktorların isimlerini, unvanlarını ve resimlerini gördü.
+2024-12-19 10:50:25 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Cardiologist uzmanlık alanındaki doktorların isimlerini, unvanlarını ve resimlerini gördü.
+2024-12-19 10:50:25 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Cardiologist uzmanlık alanındaki doktorların isimlerini, unvanlarını ve resimlerini gördü.
+2024-12-19 10:50:25 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Cardiologist uzmanlık alanındaki doktorların isimlerini, unvanlarını ve resimlerini gördü.
+2024-12-19 10:50:25 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Cardiologist uzmanlık alanındaki doktorların isimlerini, unvanlarını ve resimlerini gördü.
+2024-12-19 10:50:26 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Gynaecologist uzmanlık alanındaki doktorların isimlerini, unvanlarını ve resimlerini gördü.
+2024-12-19 10:50:26 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Gynaecologist uzmanlık alanındaki doktorların isimlerini, unvanlarını ve resimlerini gördü.
+2024-12-19 10:50:26 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Gynaecologist uzmanlık alanındaki doktorların isimlerini, unvanlarını ve resimlerini gördü.
+2024-12-19 10:50:26 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Gynaecologist uzmanlık alanındaki doktorların isimlerini, unvanlarını ve resimlerini gördü.
+2024-12-19 10:50:26 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Neurologist uzmanlık alanındaki doktorların isimlerini, unvanlarını ve resimlerini gördü.
+2024-12-19 10:50:26 [main] INFO  StepDefinitions.HomePageStep - Browser kapatıldı.
+2024-12-19 10:50:26 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Kullanıcı Meet Our Doctors sayfasını doğrular
+2024-12-19 10:50:26 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:50:26 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Kullanıcı FAQ's sayfasını doğrular
+2024-12-19 10:50:27 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:50:29 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-19 10:50:29 [main] INFO  StepDefinitions.AboutUsStep - {menuName} menüsünün üzerine gelindi.
+2024-12-19 10:50:30 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, FAQ's sayfasına yönlendirildiğini doğruladı.
+2024-12-19 10:50:30 [main] INFO  StepDefinitions.AboutUsStep - FAQ's sayfasında verilen sayıda soru bulunduğu doğrulandı.
+2024-12-19 10:50:35 [main] INFO  StepDefinitions.AboutUsStep - Her bir soru üzerine tıklanıp altlarında cevabın göründüğü doğrulandı.
+2024-12-19 10:50:46 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Kullanıcı FAQ's sayfasını doğrular
+2024-12-19 10:50:46 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:50:46 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Kullanıcı Departments sayfasındaki başlıkları ve açıklama metinlerini doğrular
+2024-12-19 10:50:47 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:50:49 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-19 10:50:49 [main] INFO  StepDefinitions.AboutUsStep - {menuName} menüsünün üzerine gelindi.
+2024-12-19 10:50:50 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Departments sayfasına yönlendirildiğini doğruladı.
+2024-12-19 10:50:50 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen departmanların başlık ve açıklama metinlerinin yer aldığı doğrulandı.
+2024-12-19 10:50:50 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen departmanların başlık ve açıklama metinlerinin yer aldığı doğrulandı.
+2024-12-19 10:50:50 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen departmanların başlık ve açıklama metinlerinin yer aldığı doğrulandı.
+2024-12-19 10:50:50 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen departmanların başlık ve açıklama metinlerinin yer aldığı doğrulandı.
+2024-12-19 10:50:50 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen departmanların başlık ve açıklama metinlerinin yer aldığı doğrulandı.
+2024-12-19 10:50:50 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen departmanların başlık ve açıklama metinlerinin yer aldığı doğrulandı.
+2024-12-19 10:50:50 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen departmanların başlık ve açıklama metinlerinin yer aldığı doğrulandı.
+2024-12-19 10:50:50 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen departmanların başlık ve açıklama metinlerinin yer aldığı doğrulandı.
+2024-12-19 10:50:50 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen departmanların başlık ve açıklama metinlerinin yer aldığı doğrulandı.
+2024-12-19 10:50:50 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen departmanların başlık ve açıklama metinlerinin yer aldığı doğrulandı.
+2024-12-19 10:50:50 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen departmanların başlık ve açıklama metinlerinin yer aldığı doğrulandı.
+2024-12-19 10:50:50 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen departmanların başlık ve açıklama metinlerinin yer aldığı doğrulandı.
+2024-12-19 10:50:51 [main] INFO  StepDefinitions.HomePageStep - Browser kapatıldı.
+2024-12-19 10:50:51 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Kullanıcı Departments sayfasındaki başlıkları ve açıklama metinlerini doğrular
+2024-12-19 10:50:51 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:50:51 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Testimonials sayfasındaki kişilerin yorumlarını ve resimlerini doğrulama
+2024-12-19 10:50:52 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:50:53 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-19 10:50:54 [main] INFO  StepDefinitions.AboutUsStep - {menuName} menüsünün üzerine gelindi.
+2024-12-19 10:50:55 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, Testimonials sayfasına yönlendirildiğini doğruladı.
+2024-12-19 10:50:55 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen kişilerin yorumlarının ve resimlerinin yer aldığı doğrulandı.
+2024-12-19 10:50:55 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen kişilerin yorumlarının ve resimlerinin yer aldığı doğrulandı.
+2024-12-19 10:50:55 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen kişilerin yorumlarının ve resimlerinin yer aldığı doğrulandı.
+2024-12-19 10:50:55 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen kişilerin yorumlarının ve resimlerinin yer aldığı doğrulandı.
+2024-12-19 10:50:55 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen kişilerin yorumlarının ve resimlerinin yer aldığı doğrulandı.
+2024-12-19 10:50:55 [main] INFO  StepDefinitions.AboutUsStep - Sayfada verilen kişilerin yorumlarının ve resimlerinin yer aldığı doğrulandı.
+2024-12-19 10:50:55 [main] INFO  StepDefinitions.HomePageStep - Browser kapatıldı.
+2024-12-19 10:50:55 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Testimonials sayfasındaki kişilerin yorumlarını ve resimlerini doğrulama
+2024-12-19 10:50:55 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:50:55 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Verify gallery sections and their images
+2024-12-19 10:50:56 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:50:58 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-19 10:50:59 [main] INFO  StepDefinitions.Gallery_ContactUsStep - Ana sayfada Gallery menüsüne tıklandı.
+2024-12-19 10:50:59 [main] INFO  StepDefinitions.Gallery_ContactUsStep - Kullanıcının Gallery sayfasına yönlendirildiği doğrulandı.
+2024-12-19 10:51:00 [main] INFO  StepDefinitions.Gallery_ContactUsStep - İlgili galeri bölümü kontrol edildi ve resimler doğrulandı.
+2024-12-19 10:51:02 [main] INFO  StepDefinitions.Gallery_ContactUsStep - İlgili galeri bölümü kontrol edildi ve resimler doğrulandı.
+2024-12-19 10:51:04 [main] INFO  StepDefinitions.Gallery_ContactUsStep - İlgili galeri bölümü kontrol edildi ve resimler doğrulandı.
+2024-12-19 10:51:06 [main] INFO  StepDefinitions.Gallery_ContactUsStep - İlgili galeri bölümü kontrol edildi ve resimler doğrulandı.
+2024-12-19 10:51:07 [main] INFO  StepDefinitions.Gallery_ContactUsStep - İlgili galeri bölümü kontrol edildi ve resimler doğrulandı.
+2024-12-19 10:51:09 [main] INFO  StepDefinitions.Gallery_ContactUsStep - İlgili galeri bölümü kontrol edildi ve resimler doğrulandı.
+2024-12-19 10:51:09 [main] INFO  StepDefinitions.HomePageStep - Browser kapatıldı.
+2024-12-19 10:51:09 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Verify gallery sections and their images
+2024-12-19 10:51:09 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:51:09 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Contact us sayfasına erişim
+2024-12-19 10:51:10 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:51:12 [main] INFO  StepDefinitions.PatientStep - Kullanıcı ana sayfaya gitti.
+2024-12-19 10:51:16 [main] INFO  StepDefinitions.Gallery_ContactUsStep - Kullanıcı contact_us linkine tıkladı.
+2024-12-19 10:51:16 [main] INFO  StepDefinitions.Gallery_ContactUsStep - Kullanıcı contact_us sayfasına açıldığını doğruladı.
+2024-12-19 10:51:17 [main] INFO  StepDefinitions.PatientStep - Kullanıcı sayfayı kapattı.
+2024-12-19 10:51:17 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Contact us sayfasına erişim
+2024-12-19 10:51:17 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:51:17 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC02 kuallanıcı contact as sayfasında box doldurur.
+2024-12-19 10:51:18 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:51:19 [main] INFO  StepDefinitions.PatientStep - Kullanıcı ana sayfaya gitti.
+2024-12-19 10:51:23 [main] INFO  StepDefinitions.Gallery_ContactUsStep - Kullanıcı contact_us linkine tıkladı.
+2024-12-19 10:51:23 [main] INFO  StepDefinitions.Gallery_ContactUsStep - Kullanıcı ismini girdi.
+2024-12-19 10:51:23 [main] INFO  StepDefinitions.Gallery_ContactUsStep - Kullanıcı email adresini girdi.
+2024-12-19 10:51:23 [main] INFO  StepDefinitions.Gallery_ContactUsStep - Kullanıcı subject alanını doldurdu.
+2024-12-19 10:51:25 [main] INFO  StepDefinitions.Gallery_ContactUsStep - Kullanıcı description alanına mesaj yazdı.
+2024-12-19 10:51:25 [main] INFO  StepDefinitions.Gallery_ContactUsStep - Kullanıcı formu gönderdi.
+2024-12-19 10:51:25 [main] INFO  StepDefinitions.Gallery_ContactUsStep - Kullanıcı doğrulama mesajını gördü.
+2024-12-19 10:51:25 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC02 kuallanıcı contact as sayfasında box doldurur.
+2024-12-19 10:51:25 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:51:25 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC03Map görünümü test et
+2024-12-19 10:51:26 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:51:28 [main] INFO  StepDefinitions.PatientStep - Kullanıcı ana sayfaya gitti.
+2024-12-19 10:51:31 [main] INFO  StepDefinitions.Gallery_ContactUsStep - Kullanıcı contact_us linkine tıkladı.
+2024-12-19 10:51:31 [main] INFO  StepDefinitions.Gallery_ContactUsStep - Sayfa aşağı doğru scroll edildi.
+2024-12-19 10:51:32 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC03Map görünümü test et
+2024-12-19 10:51:33 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:51:33 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01 Login olma   Ana sayfadaki giriş işlevine erişmek istiyorum
+2024-12-19 10:51:34 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:51:37 [main] INFO  StepDefinitions.PatientStep - Url acildigini dogruladi
+2024-12-19 10:51:37 [main] INFO  StepDefinitions.Gallery_ContactUsStep - Kullanıcı email adresini girdi.
+2024-12-19 10:51:37 [main] INFO  StepDefinitions.DoctorStep - Geçerli password girildi.
+2024-12-19 10:51:37 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC01 Login olma   Ana sayfadaki giriş işlevine erişmek istiyorum
+2024-12-19 10:51:37 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:51:37 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC02  Geçersiz giriş ve şifremi unuttum işlevi
+2024-12-19 10:51:39 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:51:42 [main] INFO  StepDefinitions.PatientStep - Url acildigini dogruladi
+2024-12-19 10:51:42 [main] INFO  StepDefinitions.LoginStep - Password bölümüne yanlış data girildi.
+2024-12-19 10:51:42 [main] INFO  StepDefinitions.LoginStep - Forgot Password yazısının görünürlüğü doğrulandı.
+2024-12-19 10:51:42 [main] INFO  StepDefinitions.LoginStep - Email alanına doğru data girildi.
+2024-12-19 10:51:43 [main] INFO  StepDefinitions.LoginStep - Submit butonuna tıklandı.
+2024-12-19 10:51:43 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC02  Geçersiz giriş ve şifremi unuttum işlevi
+2024-12-19 10:51:43 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:51:43 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Logoya tıklayıınca anasayfaya yonlendırme
+2024-12-19 10:51:44 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:51:45 [main] INFO  StepDefinitions.LoginStep - Kullanıcı adresine gitti.
+2024-12-19 10:51:45 [main] INFO  StepDefinitions.LoginStep - Geçerli bir email adresi ve şifre girildi.
+2024-12-19 10:51:46 [main] INFO  StepDefinitions.LoginStep - Sign In butonuna tıklandı.
+2024-12-19 10:51:47 [main] INFO  StepDefinitions.PatientStep - Kullanıcı dili değiştirdi.
+2024-12-19 10:51:48 [main] INFO  StepDefinitions.PatientStep - Kullanıcı bildirimleri gördü.
+2024-12-19 10:52:03 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Logoya tıklayıınca anasayfaya yonlendırme
+2024-12-19 10:52:03 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:52:03 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01Sidebara katılıp menulerın gorundugunu test etmek
+2024-12-19 10:52:04 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:52:07 [main] INFO  StepDefinitions.PatientStep - Url acildigini dogruladi
+2024-12-19 10:52:07 [main] INFO  StepDefinitions.Gallery_ContactUsStep - Kullanıcı email adresini girdi.
+2024-12-19 10:52:07 [main] INFO  StepDefinitions.DoctorStep - Geçerli password girildi.
+2024-12-19 10:52:22 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC01Sidebara katılıp menulerın gorundugunu test etmek
+2024-12-19 10:52:22 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:52:22 [main] INFO  utilities.LoggerHelper - Test Başlıyor: : Kullanici sisteme giris yapar.
+2024-12-19 10:52:23 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:52:24 [main] INFO  StepDefinitions.LoginStep - Kullanıcı adresine gitti.
+2024-12-19 10:52:25 [main] INFO  StepDefinitions.LoginStep - Geçerli bir email adresi ve şifre girildi.
+2024-12-19 10:52:26 [main] INFO  StepDefinitions.LoginStep - Sign In butonuna tıklandı.
+2024-12-19 10:52:26 [main] INFO  StepDefinitions.LoginStep - Dashboard düzgün bir şekilde görüntülendi.
+2024-12-19 10:52:26 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: : Kullanici sisteme giris yapar.
+2024-12-19 10:52:26 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:52:26 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Kullanici sisteme giris yapar.
+2024-12-19 10:52:27 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:52:30 [main] INFO  StepDefinitions.PatientStep - Url acildigini dogruladi
+2024-12-19 10:52:32 [main] INFO  StepDefinitions.PatientStep - Kullanıcı belirtilen kullanıcı adı ve şifre ile giriş yaptı.
+2024-12-19 10:52:36 [main] INFO  StepDefinitions.PatientStep - Sign In butonuna tıklandı.
+2024-12-19 10:52:36 [main] INFO  StepDefinitions.PatientStep - Dashboard düzgün bir şekilde görüntülendi.
+2024-12-19 10:52:36 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Kullanici sisteme giris yapar.
+2024-12-19 10:52:36 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:52:36 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Radyoloji menusunun Radiology Test Reports List sayfasina yonlendirdigi doğrulanmalidir.
+2024-12-19 10:52:37 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:52:52 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Radyoloji menusunun Radiology Test Reports List sayfasina yonlendirdigi doğrulanmalidir.
+2024-12-19 10:52:52 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:52:52 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Radyology Test Reports List ,sayfasinda gerekli baslıkların goruntulendigi dogrulanmalidir
+2024-12-19 10:52:53 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:53:08 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Radyology Test Reports List ,sayfasinda gerekli baslıkların goruntulendigi dogrulanmalidir
+2024-12-19 10:53:08 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:53:08 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Radyology Test Reports Listesinde arama kutusunun duzgun calistigi dogrulanmalidir
+2024-12-19 10:53:09 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:53:24 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Radyology Test Reports Listesinde arama kutusunun duzgun calistigi dogrulanmalidir
+2024-12-19 10:53:25 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:53:25 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Radyology Test Reports sayfasında siralama fonksiyonelligi dogrulanmalidir
+2024-12-19 10:53:26 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:53:41 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Radyology Test Reports sayfasında siralama fonksiyonelligi dogrulanmalidir
+2024-12-19 10:53:41 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:53:41 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Islem sutunundaki islemlerin mevcut oldugunun dogrulanmasi testi
+2024-12-19 10:53:42 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:53:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Islem sutunundaki islemlerin mevcut oldugunun dogrulanmasi testi
+2024-12-19 10:53:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:53:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Kullanici sisteme giris yapar.
+2024-12-19 10:53:58 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:54:01 [main] INFO  StepDefinitions.PatientStep - Url acildigini dogruladi
+2024-12-19 10:54:03 [main] INFO  StepDefinitions.PatientStep - Kullanıcı belirtilen kullanıcı adı ve şifre ile giriş yaptı.
+2024-12-19 10:54:06 [main] INFO  StepDefinitions.PatientStep - Sign In butonuna tıklandı.
+2024-12-19 10:54:06 [main] INFO  StepDefinitions.PatientStep - Dashboard düzgün bir şekilde görüntülendi.
+2024-12-19 10:54:06 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Kullanici sisteme giris yapar.
+2024-12-19 10:54:07 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:54:07 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Ambulance menusunun Ambulance Bill sayfasina yonlendirdigi doğrulanmalidir.
+2024-12-19 10:54:08 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:54:23 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Ambulance menusunun Ambulance Bill sayfasina yonlendirdigi doğrulanmalidir.
+2024-12-19 10:54:23 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:54:23 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Ambulance Bill sayfasinda gerekli baslıkların goruntulendigi dogrulanmalidir
+2024-12-19 10:54:24 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:54:39 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Ambulance Bill sayfasinda gerekli baslıkların goruntulendigi dogrulanmalidir
+2024-12-19 10:54:39 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:54:39 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Ambulance Bill Listesinde arama kutusunun duzgun calistigi dogrulanmalidir
+2024-12-19 10:54:40 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:54:55 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Ambulance Bill Listesinde arama kutusunun duzgun calistigi dogrulanmalidir
+2024-12-19 10:54:55 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:54:55 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Ambulance Bill sayfasında siralama fonksiyonelligi dogrulanmalidir
+2024-12-19 10:54:56 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:55:11 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Ambulance Bill sayfasında siralama fonksiyonelligi dogrulanmalidir
+2024-12-19 10:55:12 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:55:12 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Islem sutunundaki islemlerin mevcut oldugunun dogrulanmasi testi
+2024-12-19 10:55:12 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:55:28 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Islem sutunundaki islemlerin mevcut oldugunun dogrulanmasi testi
+2024-12-19 10:55:28 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:55:28 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Kullanici sisteme giris yapar.
+2024-12-19 10:55:29 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:55:32 [main] INFO  StepDefinitions.PatientStep - Url acildigini dogruladi
+2024-12-19 10:55:34 [main] INFO  StepDefinitions.PatientStep - Kullanıcı belirtilen kullanıcı adı ve şifre ile giriş yaptı.
+2024-12-19 10:55:37 [main] INFO  StepDefinitions.PatientStep - Sign In butonuna tıklandı.
+2024-12-19 10:55:37 [main] INFO  StepDefinitions.PatientStep - Dashboard düzgün bir şekilde görüntülendi.
+2024-12-19 10:55:37 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Kullanici sisteme giris yapar.
+2024-12-19 10:55:38 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:55:38 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Blood Bank menusunun Blood Bank sayfasina yonlendirdigi doğrulanmalidir.
+2024-12-19 10:55:38 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:55:54 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Blood Bank menusunun Blood Bank sayfasina yonlendirdigi doğrulanmalidir.
+2024-12-19 10:55:54 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:55:54 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Blood Bank sayfasında hasta profil bilgilerini doğrulanır
+2024-12-19 10:55:55 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:56:10 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Blood Bank sayfasında hasta profil bilgilerini doğrulanır
+2024-12-19 10:56:10 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:56:10 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Blood Issue sayfasinda gerekli baslıkların goruntulendigi dogrulanmalidir
+2024-12-19 10:56:11 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:56:26 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Blood Issue sayfasinda gerekli baslıkların goruntulendigi dogrulanmalidir
+2024-12-19 10:56:26 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:56:26 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Blood Issue Listesinde arama kutusunun duzgun calistigi dogrulanmalidir
+2024-12-19 10:56:27 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:56:42 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Blood Issue Listesinde arama kutusunun duzgun calistigi dogrulanmalidir
+2024-12-19 10:56:42 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:56:42 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Blood Issue sayfasında siralama fonksiyonelligi dogrulanmalidir
+2024-12-19 10:56:44 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:56:59 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Blood Issue sayfasında siralama fonksiyonelligi dogrulanmalidir
+2024-12-19 10:56:59 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:56:59 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Blood Bank menusunun Component Issue sayfasina yonlendirdigi doğrulanmalidir.
+2024-12-19 10:57:00 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:57:15 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Blood Bank menusunun Component Issue sayfasina yonlendirdigi doğrulanmalidir.
+2024-12-19 10:57:15 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:57:15 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Component Issue sayfasinda gerekli baslıkların goruntulendigi dogrulanmalidir
+2024-12-19 10:57:16 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:57:31 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Component Issue sayfasinda gerekli baslıkların goruntulendigi dogrulanmalidir
+2024-12-19 10:57:31 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:57:31 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Component Issue Listesinde arama kutusunun duzgun calistigi dogrulanmalidir
+2024-12-19 10:57:32 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:57:47 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Component Issue Listesinde arama kutusunun duzgun calistigi dogrulanmalidir
+2024-12-19 10:57:47 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:57:47 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Component Issue sayfasında siralama fonksiyonelligi dogrulanmalidir
+2024-12-19 10:57:48 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:58:03 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Component Issue sayfasında siralama fonksiyonelligi dogrulanmalidir
+2024-12-19 10:58:03 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:58:03 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Özet bilgi panellerinin görünürlüğünü ve işlevselliğini doğrulama
+2024-12-19 10:58:04 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:58:06 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-19 10:58:09 [main] INFO  StepDefinitions.PatientStep - Kullanıcı login butonuna tıklayarak kullanıcı adı ve şifresi ile hasta olarak giriş yaptı.
+2024-12-19 10:58:11 [main] INFO  StepDefinitions.PatientStep - Kullanıcı özet bilgi panellerinin hasta dashboard'da mevcut olduğunu doğruladı ve her birine tıklayıp ilgili sayfaya gitti.
+2024-12-19 10:58:14 [main] INFO  StepDefinitions.PatientStep - Kullanıcı özet bilgi panellerinin hasta dashboard'da mevcut olduğunu doğruladı ve her birine tıklayıp ilgili sayfaya gitti.
+2024-12-19 10:58:16 [main] INFO  StepDefinitions.PatientStep - Kullanıcı özet bilgi panellerinin hasta dashboard'da mevcut olduğunu doğruladı ve her birine tıklayıp ilgili sayfaya gitti.
+2024-12-19 10:58:18 [main] INFO  StepDefinitions.PatientStep - Kullanıcı özet bilgi panellerinin hasta dashboard'da mevcut olduğunu doğruladı ve her birine tıklayıp ilgili sayfaya gitti.
+2024-12-19 10:58:20 [main] INFO  StepDefinitions.PatientStep - Kullanıcı özet bilgi panellerinin hasta dashboard'da mevcut olduğunu doğruladı ve her birine tıklayıp ilgili sayfaya gitti.
+2024-12-19 10:58:22 [main] INFO  StepDefinitions.PatientStep - Kullanıcı özet bilgi panellerinin hasta dashboard'da mevcut olduğunu doğruladı ve her birine tıklayıp ilgili sayfaya gitti.
+2024-12-19 10:58:24 [main] INFO  StepDefinitions.PatientStep - Kullanıcı özet bilgi panellerinin hasta dashboard'da mevcut olduğunu doğruladı ve her birine tıklayıp ilgili sayfaya gitti.
+2024-12-19 10:58:26 [main] INFO  StepDefinitions.PatientStep - Kullanıcı özet bilgi panellerinin hasta dashboard'da mevcut olduğunu doğruladı ve her birine tıklayıp ilgili sayfaya gitti.
+2024-12-19 10:58:27 [main] INFO  StepDefinitions.HomePageStep - Browser kapatıldı.
+2024-12-19 10:58:27 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Özet bilgi panellerinin görünürlüğünü ve işlevselliğini doğrulama
+2024-12-19 10:58:27 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:58:27 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Medical History grafiğinin görünürlüğünü ve değerlerini doğrula
+2024-12-19 10:58:28 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:58:29 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-19 10:58:31 [main] INFO  StepDefinitions.PatientStep - Kullanıcı login butonuna tıklayarak kullanıcı adı ve şifresi ile hasta olarak giriş yaptı.
+2024-12-19 10:58:32 [main] INFO  StepDefinitions.PatientStep - Dashboard sayfasının gövdesinde belirtilen grafik bulunduğunu doğruladı.
+2024-12-19 10:58:32 [main] INFO  StepDefinitions.HomePageStep - Browser kapatıldı.
+2024-12-19 10:58:32 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Medical History grafiğinin görünürlüğünü ve değerlerini doğrula
+2024-12-19 10:58:32 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:58:32 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Kullanıcı belirtiler ve semptomlar için özet grafiklerin sayfada mevcut olduğunu doğrular
+2024-12-19 10:58:33 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:58:35 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-19 10:58:36 [main] INFO  StepDefinitions.PatientStep - Kullanıcı login butonuna tıklayarak kullanıcı adı ve şifresi ile hasta olarak giriş yaptı.
+2024-12-19 10:58:37 [main] INFO  StepDefinitions.PatientStep - Belirtiler için özet grafiklerin sayfada mevcut olduğunu doğruladı.
+2024-12-19 10:58:37 [main] INFO  StepDefinitions.PatientStep - Semptomlar için özet grafiklerin sayfada mevcut olduğunu doğruladı.
+2024-12-19 10:58:37 [main] INFO  StepDefinitions.HomePageStep - Browser kapatıldı.
+2024-12-19 10:58:37 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Kullanıcı belirtiler ve semptomlar için özet grafiklerin sayfada mevcut olduğunu doğrular
+2024-12-19 10:58:37 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:58:37 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC_001 Kullanici randevu alma islemini basariyla gerceklestirir
+2024-12-19 10:58:38 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:58:40 [main] INFO  StepDefinitions.PatientStep - Kullanıcı ana sayfaya gitti.
+2024-12-19 10:58:40 [main] INFO  StepDefinitions.PatientStep - Kullanıcı Appointment sekmesine tıkladı.
+2024-12-19 10:58:40 [main] INFO  StepDefinitions.PatientStep - Kullanıcı Appointment sayfasının açıldığını doğruladı.
+2024-12-19 10:59:00 [main] INFO  StepDefinitions.PatientStep - Kullanıcı gerekli bilgileri (bölüm, doktor, tarih, notlar) girdi.
+2024-12-19 10:59:02 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC_001 Kullanici randevu alma islemini basariyla gerceklestirir
+2024-12-19 10:59:02 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:59:02 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC_002 Kullanici yanlis veya eksik bilgilerle randevu alamaz
+2024-12-19 10:59:03 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:59:04 [main] INFO  StepDefinitions.PatientStep - Kullanıcı ana sayfaya gitti.
+2024-12-19 10:59:05 [main] INFO  StepDefinitions.PatientStep - Kullanıcı Appointment sekmesine tıkladı.
+2024-12-19 10:59:05 [main] INFO  StepDefinitions.PatientStep - Kullanıcı Appointment sayfasının açıldığını doğruladı.
+2024-12-19 10:59:24 [main] INFO  StepDefinitions.PatientStep - Kullanıcı gerekli bilgileri (bölüm, doktor, tarih, notlar) girdi.
+2024-12-19 10:59:26 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC_002 Kullanici yanlis veya eksik bilgilerle randevu alamaz
+2024-12-19 10:59:26 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:59:26 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC_003 Daha onceden olusturulan randevu icin tekrar randevu olusturma
+2024-12-19 10:59:27 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:59:28 [main] INFO  StepDefinitions.PatientStep - Kullanıcı ana sayfaya gitti.
+2024-12-19 10:59:29 [main] INFO  StepDefinitions.PatientStep - Kullanıcı Appointment sekmesine tıkladı.
+2024-12-19 10:59:29 [main] INFO  StepDefinitions.PatientStep - Kullanıcı Appointment sayfasının açıldığını doğruladı.
+2024-12-19 10:59:48 [main] INFO  StepDefinitions.PatientStep - Kullanıcı gerekli bilgileri (bölüm, doktor, tarih, notlar) girdi.
+2024-12-19 10:59:50 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC_003 Daha onceden olusturulan randevu icin tekrar randevu olusturma
+2024-12-19 10:59:50 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:59:50 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC_001 AAbout Us dropdown seceneklerinin dogru sekilde goruntulenmesi dogrulanmalidir.
+2024-12-19 10:59:51 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:59:53 [main] INFO  StepDefinitions.PatientStep - Kullanıcı ana sayfaya gitti.
+2024-12-19 10:59:57 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı header bölümünde yer alan AboutUs'a tıkladı.
+2024-12-19 10:59:57 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, alt About menüsündeki seçenekleri doğruluyor.
+2024-12-19 10:59:57 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, alt About menüsündeki seçenekleri doğruluyor.
+2024-12-19 10:59:57 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, alt About menüsündeki seçenekleri doğruluyor.
+2024-12-19 10:59:57 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, alt About menüsündeki seçenekleri doğruluyor.
+2024-12-19 10:59:57 [main] INFO  StepDefinitions.AboutUsStep - Kullanıcı, alt About menüsündeki seçenekleri doğruluyor.
+2024-12-19 10:59:57 [main] INFO  StepDefinitions.PatientStep - Kullanıcı sayfayı kapattı.
+2024-12-19 10:59:57 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC_001 AAbout Us dropdown seceneklerinin dogru sekilde goruntulenmesi dogrulanmalidir.
+2024-12-19 10:59:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 10:59:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Admin Dashboard kullanbilirlik testi
+2024-12-19 10:59:58 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 10:59:59 [main] INFO  StepDefinitions.LoginStep - Kullanıcı Heal Life adresine gitti.
+2024-12-19 11:00:03 [main] INFO  StepDefinitions.AdminDashboardStep - Admin mail AdminMailKubra ve password ile giriş yaptı.
+2024-12-19 11:00:03 [main] INFO  StepDefinitions.AdminDashboardStep - Sidebar ikonuna tıklandı.
+2024-12-19 11:00:03 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Admin Dashboard kullanbilirlik testi
+2024-12-19 11:00:03 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:00:03 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Dashboard'ın görünürlük ve işlevsellik testi
+2024-12-19 11:00:04 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:00:19 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Dashboard'ın görünürlük ve işlevsellik testi
+2024-12-19 11:00:19 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:00:19 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC02 Dashboard yan menüsündeki sayfa bağlantıları için görünürlük ve işlevsellik testi
+2024-12-19 11:00:20 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:00:20 [main] INFO  StepDefinitions.AdminDashboardStep - Yan menüde başlıkların mevcut olduğu doğrulandı.
+2024-12-19 11:00:35 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC02 Dashboard yan menüsündeki sayfa bağlantıları için görünürlük ve işlevsellik testi
+2024-12-19 11:00:35 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:00:35 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:00:36 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:00:51 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:00:51 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:00:51 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:00:52 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:01:07 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:01:07 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:01:08 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:01:09 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:01:24 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:01:24 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:01:24 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:01:25 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:01:40 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:01:40 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:01:40 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:01:41 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:01:56 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:01:56 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:01:56 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:01:57 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:02:12 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:02:12 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:02:12 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:02:13 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:02:28 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:02:28 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:02:28 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:02:29 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:02:44 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:02:45 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:02:45 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:02:45 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:03:00 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:03:01 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:03:01 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:03:02 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:03:17 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:03:17 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:03:17 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:03:18 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:03:33 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:03:33 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:03:33 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:03:34 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:03:49 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:03:49 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:03:49 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:03:50 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:04:05 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC03 Bir kullanıcı olarak, her bir yan menü öğesinin doğru sayfaya yönlendirdiğini doğrulamak istiyorum
+2024-12-19 11:04:06 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:04:06 [main] INFO  utilities.LoggerHelper - Test Başlıyor: : Url dogrulama testi
+2024-12-19 11:04:06 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:04:08 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2024-12-19 11:04:08 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: : Url dogrulama testi
+2024-12-19 11:04:08 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:04:08 [main] INFO  utilities.LoggerHelper - Test Başlıyor: HealLife sitesinde Gallery sayfasinin olmasini istiyorum
+2024-12-19 11:04:09 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:04:24 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: HealLife sitesinde Gallery sayfasinin olmasini istiyorum
+2024-12-19 11:04:24 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:04:24 [main] INFO  utilities.LoggerHelper - Test Başlıyor: HealLife sitesinin Footer bölümünden Gallery sayfasina erişebilmeliyim
+2024-12-19 11:04:25 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:04:40 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: HealLife sitesinin Footer bölümünden Gallery sayfasina erişebilmeliyim
+2024-12-19 11:04:40 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:04:40 [main] INFO  utilities.LoggerHelper - Test Başlıyor: HealLife sitesinde Gallery sayfasinda Resimlerin ve Başlıklarının olmasini istiyorum
+2024-12-19 11:04:41 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:04:56 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: HealLife sitesinde Gallery sayfasinda Resimlerin ve Başlıklarının olmasini istiyorum
+2024-12-19 11:04:56 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:04:56 [main] INFO  utilities.LoggerHelper - Test Başlıyor: HealLife sitesinde Gallery sayfasindaki Bölümlerin doğru sayfaya ulmasmasını istiyorum
+2024-12-19 11:04:57 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:05:12 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: HealLife sitesinde Gallery sayfasindaki Bölümlerin doğru sayfaya ulmasmasını istiyorum
+2024-12-19 11:05:12 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:05:12 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC_001 Kullanici Contact Us sayfasini basariyla ziyaret eder
+2024-12-19 11:05:14 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:05:15 [main] INFO  StepDefinitions.PatientStep - Kullanıcı ana sayfaya gitti.
+2024-12-19 11:05:18 [main] INFO  StepDefinitions.Gallery_ContactUsStep - Kullanıcı contact_us linkine tıkladı.
+2024-12-19 11:05:18 [main] INFO  StepDefinitions.Gallery_ContactUsStep - Kullanıcı contact_us sayfasına açıldığını doğruladı.
+2024-12-19 11:05:18 [main] INFO  StepDefinitions.PatientStep - Kullanıcı sayfayı kapattı.
+2024-12-19 11:05:18 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC_001 Kullanici Contact Us sayfasini basariyla ziyaret eder
+2024-12-19 11:05:18 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:05:18 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01 Admin Login Page sayfasinin basarii bir sekilde acildigini dogrulama testi
+2024-12-19 11:05:19 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:05:20 [main] INFO  StepDefinitions.LoginStep - Kullanıcı Heal Life adresine gitti.
+2024-12-19 11:05:20 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC01 Admin Login Page sayfasinin basarii bir sekilde acildigini dogrulama testi
+2024-12-19 11:05:20 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:05:20 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC02 Doğru bilgiler ile admin  panele giriş testi
+2024-12-19 11:05:21 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:05:22 [main] INFO  StepDefinitions.LoginStep - Kullanıcı Heal Life adresine gitti.
+2024-12-19 11:05:22 [main] INFO  StepDefinitions.LoginStep - User Name Box'a tıklandı.
+2024-12-19 11:05:22 [main] INFO  StepDefinitions.LoginStep - Geçerli User Name girildi.
+2024-12-19 11:05:22 [main] INFO  StepDefinitions.LoginStep - Password Box'a tıklandı.
+2024-12-19 11:05:25 [main] INFO  StepDefinitions.LoginStep - Geçerli password girildi.
+2024-12-19 11:05:26 [main] INFO  StepDefinitions.LoginStep - Sign In butonuna tıklandı.
+2024-12-19 11:05:26 [main] INFO  StepDefinitions.LoginStep - Admin paneline yönlendirildiği doğrulandı.
+2024-12-19 11:05:26 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC02 Doğru bilgiler ile admin  panele giriş testi
+2024-12-19 11:05:26 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:05:26 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC03 Yanlis bilgilerle login olamama testi.
+2024-12-19 11:05:27 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:05:28 [main] INFO  StepDefinitions.LoginStep - Kullanıcı Heal Life adresine gitti.
+2024-12-19 11:05:28 [main] INFO  StepDefinitions.LoginStep - User Name Box'a tıklandı.
+2024-12-19 11:05:28 [main] INFO  StepDefinitions.LoginStep - Geçerli User Name girildi.
+2024-12-19 11:05:29 [main] INFO  StepDefinitions.LoginStep - Password Box'a tıklandı.
+2024-12-19 11:05:31 [main] INFO  StepDefinitions.LoginStep - Geçerli password girildi.
+2024-12-19 11:05:32 [main] INFO  StepDefinitions.LoginStep - Sign In butonuna tıklandı.
+2024-12-19 11:05:47 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC03 Yanlis bilgilerle login olamama testi.
+2024-12-19 11:05:47 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:05:47 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC04 Forgot Password bağlantısının görünürlüğünü ve işlevselliğini doğrulama testi
+2024-12-19 11:05:48 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:05:49 [main] INFO  StepDefinitions.LoginStep - Kullanıcı Heal Life adresine gitti.
+2024-12-19 11:05:50 [main] INFO  StepDefinitions.LoginStep - Forgot Password yazısının görünürlüğü doğrulandı.
+2024-12-19 11:05:50 [main] INFO  StepDefinitions.LoginStep - Forgot Password'a tıklandı.
+2024-12-19 11:05:50 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC04 Forgot Password bağlantısının görünürlüğünü ve işlevselliğini doğrulama testi
+2024-12-19 11:05:50 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:05:50 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC05 Sifre sifirlama islevselligi testi
+2024-12-19 11:05:51 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:05:52 [main] INFO  StepDefinitions.LoginStep - Kullanıcı Heal Life adresine gitti.
+2024-12-19 11:05:52 [main] INFO  StepDefinitions.LoginStep - Forgot Password yazısının görünürlüğü doğrulandı.
+2024-12-19 11:05:52 [main] INFO  StepDefinitions.LoginStep - E-mail box'ına bilgi girildi.
+2024-12-19 11:05:52 [main] INFO  StepDefinitions.LoginStep - Submit butonuna tıklandı.
+2024-12-19 11:06:07 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC05 Sifre sifirlama islevselligi testi
+2024-12-19 11:06:08 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:06:08 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC06 Admin giriş bağlantısının görünürlüğü ve işlevselliği testi
+2024-12-19 11:06:09 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:06:10 [main] INFO  StepDefinitions.LoginStep - Kullanıcı Heal Life adresine gitti.
+2024-12-19 11:06:10 [main] INFO  StepDefinitions.LoginStep - Forgot Password yazısının görünürlüğü doğrulandı.
+2024-12-19 11:06:10 [main] INFO  StepDefinitions.LoginStep - Admin Login linkinin görünürlüğü doğrulandı.
+2024-12-19 11:06:10 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC06 Admin giriş bağlantısının görünürlüğü ve işlevselliği testi
+2024-12-19 11:06:10 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:06:10 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Sidebar dogrulama testi
+2024-12-19 11:06:11 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:06:12 [main] INFO  StepDefinitions.LoginStep - Kullanıcı Heal Life adresine gitti.
+2024-12-19 11:06:16 [main] INFO  StepDefinitions.AdminDashboardStep - Admin mail AdminMailLevent ve password ile giriş yaptı.
+2024-12-19 11:06:16 [main] INFO  StepDefinitions.AdminDashboardStep - Sidebar ikonuna tıklandı.
+2024-12-19 11:06:16 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Sidebar dogrulama testi
+2024-12-19 11:06:16 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:06:16 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Appointment ogesinin gorunurluğunu ve islevselligini  test etme
+2024-12-19 11:06:17 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:06:32 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Appointment ogesinin gorunurluğunu ve islevselligini  test etme
+2024-12-19 11:06:33 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:06:33 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Appoinment sayfasi Patient Name, Appointment No, Appointment Date, Phone, Gender, Doctor, Source, Priorty, Fees, Status basliklari gorunurluk testi
+2024-12-19 11:06:33 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:06:48 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Appoinment sayfasi Patient Name, Appointment No, Appointment Date, Phone, Gender, Doctor, Source, Priorty, Fees, Status basliklari gorunurluk testi
+2024-12-19 11:06:49 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:06:49 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Patient Name liste basligi uzerinden siralama yapma testi
+2024-12-19 11:06:50 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:07:05 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Patient Name liste basligi uzerinden siralama yapma testi
+2024-12-19 11:07:05 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:07:05 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Search Box gorunurlugu ve islevselligi testi
+2024-12-19 11:07:06 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:07:21 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Search Box gorunurlugu ve islevselligi testi
+2024-12-19 11:07:21 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:07:21 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Search Box gorunurlugu ve islevselligi testi
+2024-12-19 11:07:22 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:07:37 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Search Box gorunurlugu ve islevselligi testi
+2024-12-19 11:07:37 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:07:37 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Doktor wise butonu gorunurlugu ve aktifligi testi
+2024-12-19 11:07:38 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:07:53 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Doktor wise butonu gorunurlugu ve aktifligi testi
+2024-12-19 11:07:54 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:07:54 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Doktor ve Date secilerek filtreleme testi
+2024-12-19 11:07:55 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:08:10 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Doktor ve Date secilerek filtreleme testi
+2024-12-19 11:08:10 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:08:10 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Queue butonu gorunurlugu ve aktifligi testi
+2024-12-19 11:08:11 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:08:26 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Queue butonu gorunurlugu ve aktifligi testi
+2024-12-19 11:08:26 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:08:26 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Doktor dogrulama testi
+2024-12-19 11:08:27 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:08:42 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Doktor dogrulama testi
+2024-12-19 11:08:42 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:08:42 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC_001 Kullanici Radiology sayfasina erisebilirlik testi
+2024-12-19 11:08:43 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:08:44 [main] INFO  StepDefinitions.LoginStep - Kullanıcı Heal Life sitesine giriş yaptı.
+2024-12-19 11:08:44 [main] INFO  StepDefinitions.LoginStep - Kullanıcı Username Box içine admin adını giriş yaptı.
+2024-12-19 11:08:44 [main] INFO  StepDefinitions.LoginStep - Kullanıcı Password bölümüne admin password giriş yaptı.
+2024-12-19 11:08:46 [main] INFO  StepDefinitions.LoginStep - Kullanıcı Sign In Button'una tıklandı.
+2024-12-19 11:08:48 [main] INFO  StepDefinitions.AdminDashboardStep - Kullanıcı admin sayfasında olduğu doğrulandı.
+2024-12-19 11:08:49 [main] INFO  StepDefinitions.AdminDashboardStep - Radiology tab'ine tıklandı.
+2024-12-19 11:08:51 [main] INFO  StepDefinitions.AdminDashboardStep - Radiology sayfasının açıldığı doğrulandı.
+2024-12-19 11:08:51 [main] INFO  StepDefinitions.PatientStep - Kullanıcı sayfayı kapattı.
+2024-12-19 11:08:51 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC_001 Kullanici Radiology sayfasina erisebilirlik testi
+2024-12-19 11:08:51 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:08:51 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TPA Yönetim Sayfasına Yönlendirme
+2024-12-19 11:08:52 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:08:53 [main] INFO  StepDefinitions.LoginStep - Kullanıcı Heal Life adresine gitti.
+2024-12-19 11:08:57 [main] INFO  StepDefinitions.AdminDashboardStep - Admin mail AdminMailLevent ve password ile giriş yaptı.
+2024-12-19 11:08:58 [main] INFO  StepDefinitions.AdminDashboardStep - TPA Management bağlantısı tıklandı.
+2024-12-19 11:08:59 [main] INFO  StepDefinitions.AdminDashboardStep - TPA Management sayfasına yönlendirildiği doğrulandı.
+2024-12-19 11:08:59 [main] INFO  StepDefinitions.HomePageStep - Browser kapatıldı.
+2024-12-19 11:08:59 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TPA Yönetim Sayfasına Yönlendirme
+2024-12-19 11:08:59 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:08:59 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TPA Yönetim Listesi Görüntülenmesi ve İşlevsellik Kontrolü
+2024-12-19 11:09:00 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:09:01 [main] INFO  StepDefinitions.LoginStep - Kullanıcı Heal Life adresine gitti.
+2024-12-19 11:09:06 [main] INFO  StepDefinitions.AdminDashboardStep - Admin mail AdminMailLevent ve password ile giriş yaptı.
+2024-12-19 11:09:07 [main] INFO  StepDefinitions.AdminDashboardStep - TPA Management bağlantısı tıklandı.
+2024-12-19 11:09:07 [main] INFO  StepDefinitions.AdminDashboardStep - TPA Yönetim Listesindeki sütunlar doğrulandı.
+2024-12-19 11:09:07 [main] INFO  StepDefinitions.AdminDashboardStep - Arama kutusunun bulunduğu doğrulandı.
+2024-12-19 11:09:08 [main] INFO  StepDefinitions.AdminDashboardStep - Yüz ve All seçeneklerinin mevcut olduğu doğrulandı.
+2024-12-19 11:09:08 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TPA Yönetim Listesi Görüntülenmesi ve İşlevsellik Kontrolü
+2024-12-19 11:09:08 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:09:08 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Yeni TPA kaydı ekleme ve doğrulama
+2024-12-19 11:09:09 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:09:14 [main] INFO  StepDefinitions.AdminDashboardStep - Admin mail AdminMailLevent ve password ile giriş yaptı.
+2024-12-19 11:09:14 [main] INFO  StepDefinitions.AdminDashboardStep - TPA Management bağlantısı tıklandı.
+2024-12-19 11:09:18 [main] INFO  StepDefinitions.AdminDashboardStep - TPA Add penceresindeki giriş alanlarının mevcut olduğu doğrulandı.
+2024-12-19 11:09:20 [main] INFO  StepDefinitions.AdminDashboardStep - TPA Ekleme penceresindeki tüm alanlara geçerli veriler girildi ve Save düğmesine tıklandı.
+2024-12-19 11:09:22 [main] INFO  StepDefinitions.AdminDashboardStep - Yeni kaydın TPA Yönetim Listesinde görüntülendiği doğrulandı.
+2024-12-19 11:09:23 [main] INFO  StepDefinitions.HomePageStep - Browser kapatıldı.
+2024-12-19 11:09:23 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Yeni TPA kaydı ekleme ve doğrulama
+2024-12-19 11:09:23 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:09:23 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TPA Yönetim Listesinde bir kaydın düzenlenmesi, silinmesi ve sıralanması
+2024-12-19 11:09:24 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:09:28 [main] INFO  StepDefinitions.AdminDashboardStep - Admin mail AdminMailLevent ve password ile giriş yaptı.
+2024-12-19 11:09:29 [main] INFO  StepDefinitions.AdminDashboardStep - TPA Management bağlantısı tıklandı.
+2024-12-19 11:09:30 [main] INFO  StepDefinitions.AdminDashboardStep - TPA Yönetim Listesinde Contact Person Phone sütununun altındaki bir ismin üzerine gelindi.
+2024-12-19 11:09:38 [main] INFO  StepDefinitions.AdminDashboardStep - Edit işlemiyle kaydın detayları güncellendi.
+2024-12-19 11:09:41 [main] INFO  StepDefinitions.AdminDashboardStep - Silme işlemi gerçekleştirildi.
+2024-12-19 11:09:45 [main] INFO  StepDefinitions.AdminDashboardStep - Organization butonunun çalıştığı doğrulandı.
+2024-12-19 11:09:45 [main] INFO  StepDefinitions.HomePageStep - Browser kapatıldı.
+2024-12-19 11:09:45 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TPA Yönetim Listesinde bir kaydın düzenlenmesi, silinmesi ve sıralanması
+2024-12-19 11:09:45 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:09:45 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01 İlgili Url tıklanınca login sayfasinin acilip test edilmesi
+2024-12-19 11:09:46 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:09:47 [main] INFO  StepDefinitions.LoginStep - Kullanıcı contact_us sayfasına açıldığını doğruladı.
+2024-12-19 11:09:47 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC01 İlgili Url tıklanınca login sayfasinin acilip test edilmesi
+2024-12-19 11:09:47 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:09:47 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC02 Doğru bilgiler ile panele giriş testi
+2024-12-19 11:09:48 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:09:49 [main] INFO  StepDefinitions.LoginStep - Kullanıcı contact_us sayfasına açıldığını doğruladı.
+2024-12-19 11:09:49 [main] INFO  StepDefinitions.LoginStep - Username bölümüne doğru email girildi.
+2024-12-19 11:09:49 [main] INFO  StepDefinitions.LoginStep - Password bölümüne doğru password girildi.
+2024-12-19 11:09:51 [main] INFO  StepDefinitions.LoginStep - Sign In butonuna tıklandı.
+2024-12-19 11:09:51 [main] INFO  StepDefinitions.LoginStep - Heal Life logosu başarılı bir şekilde görüntüleniyor.
+2024-12-19 11:09:51 [main] INFO  StepDefinitions.LoginStep - Heal Life logosu görüntülendi.
+2024-12-19 11:09:51 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC02 Doğru bilgiler ile panele giriş testi
+2024-12-19 11:09:51 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:09:51 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC03 Yanlis bilgilerle login olamama testi.
+2024-12-19 11:09:52 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:09:53 [main] INFO  StepDefinitions.LoginStep - Kullanıcı contact_us sayfasına açıldığını doğruladı.
+2024-12-19 11:09:53 [main] INFO  StepDefinitions.LoginStep - Username bölümüne yanlış data girildi.
+2024-12-19 11:09:53 [main] INFO  StepDefinitions.LoginStep - Password bölümüne yanlış data girildi.
+2024-12-19 11:09:54 [main] INFO  StepDefinitions.LoginStep - Sign In butonuna tıklandı.
+2024-12-19 11:09:54 [main] INFO  StepDefinitions.LoginStep - Sisteme giriş yapılamadığı ve admin penceresinin görünür olduğu doğrulandı.
+2024-12-19 11:09:54 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC03 Yanlis bilgilerle login olamama testi.
+2024-12-19 11:09:54 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:09:54 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC04 Login sayfasinda forgot password linki bulunmasi ve islevselligi testi
+2024-12-19 11:09:55 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:09:56 [main] INFO  StepDefinitions.LoginStep - Kullanıcı contact_us sayfasına açıldığını doğruladı.
+2024-12-19 11:09:56 [main] INFO  StepDefinitions.LoginStep - Forgot Password linkine tıklandı.
+2024-12-19 11:09:56 [main] INFO  StepDefinitions.LoginStep - Email alanına doğru data girildi.
+2024-12-19 11:09:57 [main] INFO  StepDefinitions.LoginStep - Submit butonuna tıklandı.
+2024-12-19 11:09:57 [main] INFO  StepDefinitions.LoginStep - Textbox'a girilen mail adresine şifre geldiği üstteki bilgi kutucuğu ile doğrulandı.
+2024-12-19 11:09:57 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC04 Login sayfasinda forgot password linki bulunmasi ve islevselligi testi
+2024-12-19 11:09:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:09:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC05 Admin login linkinden login anasayfaya geri dönüş testi
+2024-12-19 11:09:58 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:09:59 [main] INFO  StepDefinitions.LoginStep - Kullanıcı contact_us sayfasına açıldığını doğruladı.
+2024-12-19 11:09:59 [main] INFO  StepDefinitions.LoginStep - Forgot Password linkine tıklandı.
+2024-12-19 11:09:59 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC05 Admin login linkinden login anasayfaya geri dönüş testi
+2024-12-19 11:10:00 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:10:00 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01 Login sayfasina dogru datalar ile sisteme girilmesi testi
+2024-12-19 11:10:01 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:10:02 [main] INFO  StepDefinitions.DoctorStep - Doktor geçerli url ile giriş yaptı.
+2024-12-19 11:10:02 [main] INFO  StepDefinitions.DoctorStep - Geçerli User Name girildi.
+2024-12-19 11:10:02 [main] INFO  StepDefinitions.DoctorStep - Geçerli password girildi.
+2024-12-19 11:10:03 [main] INFO  StepDefinitions.LoginStep - Sign In butonuna tıklandı.
+2024-12-19 11:10:03 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC01 Login sayfasina dogru datalar ile sisteme girilmesi testi
+2024-12-19 11:10:03 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:10:03 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC02 Doktorlara gonderilen post mesajlarinin goruntulenmesi testi
+2024-12-19 11:10:04 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:10:05 [main] INFO  StepDefinitions.DoctorStep - Doktor geçerli url ile giriş yaptı.
+2024-12-19 11:10:05 [main] INFO  StepDefinitions.DoctorStep - Geçerli User Name girildi.
+2024-12-19 11:10:05 [main] INFO  StepDefinitions.DoctorStep - Geçerli password girildi.
+2024-12-19 11:10:07 [main] INFO  StepDefinitions.LoginStep - Sign In butonuna tıklandı.
+2024-12-19 11:10:07 [main] INFO  StepDefinitions.LoginStep - Heal Life logosu başarılı bir şekilde görüntüleniyor.
+2024-12-19 11:10:07 [main] INFO  StepDefinitions.LoginStep - Heal Life logosu görüntülendi.
+2024-12-19 11:10:07 [main] INFO  StepDefinitions.DoctorStep - Navbar altında post mesajları bölümü olduğu doğrulandı.
+2024-12-19 11:10:07 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC02 Doktorlara gonderilen post mesajlarinin goruntulenmesi testi
+2024-12-19 11:10:07 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:10:07 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC03 Doktora ait takvimin görüntülenmesi ve işlemler yapılabilmesi testi
+2024-12-19 11:10:08 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:10:09 [main] INFO  StepDefinitions.DoctorStep - Doktor geçerli url ile giriş yaptı.
+2024-12-19 11:10:09 [main] INFO  StepDefinitions.DoctorStep - Geçerli User Name girildi.
+2024-12-19 11:10:09 [main] INFO  StepDefinitions.DoctorStep - Geçerli password girildi.
+2024-12-19 11:10:11 [main] INFO  StepDefinitions.LoginStep - Sign In butonuna tıklandı.
+2024-12-19 11:10:13 [main] INFO  StepDefinitions.DoctorStep - Navbar altında post mesajları bölümü olduğu doğrulandı.
+2024-12-19 11:10:31 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC03 Doktora ait takvimin görüntülenmesi ve işlemler yapılabilmesi testi
+2024-12-19 11:10:31 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:10:31 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC04 Sisteme kayitli calisan sayisinin goruntulenmesi testi
+2024-12-19 11:10:32 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:10:33 [main] INFO  StepDefinitions.DoctorStep - Doktor geçerli url ile giriş yaptı.
+2024-12-19 11:10:33 [main] INFO  StepDefinitions.DoctorStep - Geçerli User Name girildi.
+2024-12-19 11:10:33 [main] INFO  StepDefinitions.DoctorStep - Geçerli password girildi.
+2024-12-19 11:10:35 [main] INFO  StepDefinitions.LoginStep - Sign In butonuna tıklandı.
+2024-12-19 11:10:35 [main] INFO  StepDefinitions.DoctorStep - Çalışan sayısı bölümüne gelindi.
+2024-12-19 11:10:35 [main] INFO  StepDefinitions.DoctorStep - Accountant'in sayısı doğrulandı.
+2024-12-19 11:10:35 [main] INFO  StepDefinitions.DoctorStep - Doctor'un sayısı doğrulandı.
+2024-12-19 11:10:35 [main] INFO  StepDefinitions.DoctorStep - Pharmacist'in sayısı doğrulandı.
+2024-12-19 11:10:35 [main] INFO  StepDefinitions.DoctorStep - Pathologist'in sayısı doğrulandı.
+2024-12-19 11:10:35 [main] INFO  StepDefinitions.DoctorStep - Radiologist'in sayısı doğrulandı.
+2024-12-19 11:10:35 [main] INFO  StepDefinitions.DoctorStep - Super Admin'in sayısı doğrulandı.
+2024-12-19 11:10:35 [main] INFO  StepDefinitions.DoctorStep - Receptionist'in sayısı doğrulandı.
+2024-12-19 11:10:35 [main] INFO  StepDefinitions.DoctorStep - çalışan sayilari dogrulandi
+2024-12-19 11:10:35 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC04 Sisteme kayitli calisan sayisinin goruntulenmesi testi
+2024-12-19 11:10:35 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:10:35 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC05 Çalışan sayisi boardlarina tiklanarak human resources sayfasina yönlendirmesi testi.
+2024-12-19 11:10:36 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:10:37 [main] INFO  StepDefinitions.DoctorStep - Doktor geçerli url ile giriş yaptı.
+2024-12-19 11:10:37 [main] INFO  StepDefinitions.DoctorStep - Geçerli User Name girildi.
+2024-12-19 11:10:37 [main] INFO  StepDefinitions.DoctorStep - Geçerli password girildi.
+2024-12-19 11:10:39 [main] INFO  StepDefinitions.LoginStep - Sign In butonuna tıklandı.
+2024-12-19 11:10:39 [main] INFO  StepDefinitions.DoctorStep - Çalışan sayısı bölümüne gelindi.
+2024-12-19 11:10:40 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC05 Çalışan sayisi boardlarina tiklanarak human resources sayfasina yönlendirmesi testi.
+2024-12-19 11:10:40 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:10:40 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01 Messaging linkine tiklanarak ilgili sayfaya yönlendirmesi testi
+2024-12-19 11:10:41 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:10:42 [main] INFO  StepDefinitions.DoctorStep - Doktor geçerli url ile giriş yaptı.
+2024-12-19 11:10:42 [main] INFO  StepDefinitions.DoctorStep - Geçerli User Name girildi.
+2024-12-19 11:10:42 [main] INFO  StepDefinitions.DoctorStep - Geçerli password girildi.
+2024-12-19 11:10:43 [main] INFO  StepDefinitions.LoginStep - Sign In butonuna tıklandı.
+2024-12-19 11:10:44 [main] INFO  StepDefinitions.LoginStep - Heal Life logosu başarılı bir şekilde görüntüleniyor.
+2024-12-19 11:10:44 [main] INFO  StepDefinitions.LoginStep - Heal Life logosu görüntülendi.
+2024-12-19 11:10:47 [main] INFO  StepDefinitions.DoctorStep - Messaging linkine tıklandı.
+2024-12-19 11:10:47 [main] INFO  StepDefinitions.DoctorStep - Yönlendirme başarılı. Mevcut URL: https://qa.heallifehospital.com/admin/notification
+2024-12-19 11:10:47 [main] INFO  StepDefinitions.DoctorStep - Notice board görüntüleniyor..
+2024-12-19 11:10:47 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC01 Messaging linkine tiklanarak ilgili sayfaya yönlendirmesi testi
+2024-12-19 11:10:47 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:10:47 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC02 Post New Messaging linkine tıklanabilmesi ve gerekli alanların doldurulabilmesi testi
+2024-12-19 11:10:48 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:10:49 [main] INFO  StepDefinitions.DoctorStep - Doktor geçerli url ile giriş yaptı.
+2024-12-19 11:10:49 [main] INFO  StepDefinitions.DoctorStep - Geçerli User Name girildi.
+2024-12-19 11:10:49 [main] INFO  StepDefinitions.DoctorStep - Geçerli password girildi.
+2024-12-19 11:10:50 [main] INFO  StepDefinitions.LoginStep - Sign In butonuna tıklandı.
+2024-12-19 11:10:51 [main] INFO  StepDefinitions.LoginStep - Heal Life logosu başarılı bir şekilde görüntüleniyor.
+2024-12-19 11:10:51 [main] INFO  StepDefinitions.LoginStep - Heal Life logosu görüntülendi.
+2024-12-19 11:10:54 [main] INFO  StepDefinitions.DoctorStep - Messaging linkine tıklandı.
+2024-12-19 11:10:55 [main] INFO  StepDefinitions.DoctorStep - Iframe'e geçiş yapılıyor.
+2024-12-19 11:10:55 [main] INFO  StepDefinitions.DoctorStep - Iframe'den çıkılıyor.
+2024-12-19 11:10:56 [main] INFO  StepDefinitions.DoctorStep - mesaj geldiği doğrulanıyor
+2024-12-19 11:10:56 [main] INFO  StepDefinitions.DoctorStep - mesaj geldiği doğrulandı
+2024-12-19 11:10:56 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC02 Post New Messaging linkine tıklanabilmesi ve gerekli alanların doldurulabilmesi testi
+2024-12-19 11:10:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:10:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC03 Send SMS testi
+2024-12-19 11:10:57 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:10:59 [main] INFO  StepDefinitions.DoctorStep - Doktor geçerli url ile giriş yaptı.
+2024-12-19 11:10:59 [main] INFO  StepDefinitions.DoctorStep - Geçerli User Name girildi.
+2024-12-19 11:10:59 [main] INFO  StepDefinitions.DoctorStep - Geçerli password girildi.
+2024-12-19 11:10:59 [main] INFO  StepDefinitions.LoginStep - Sign In butonuna tıklandı.
+2024-12-19 11:11:00 [main] INFO  StepDefinitions.LoginStep - Heal Life logosu başarılı bir şekilde görüntüleniyor.
+2024-12-19 11:11:00 [main] INFO  StepDefinitions.LoginStep - Heal Life logosu görüntülendi.
+2024-12-19 11:11:03 [main] INFO  StepDefinitions.DoctorStep - Messaging linkine tıklandı.
+2024-12-19 11:11:04 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC03 Send SMS testi
+2024-12-19 11:11:05 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:11:05 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC04 Send email testi
+2024-12-19 11:11:05 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:11:06 [main] INFO  StepDefinitions.DoctorStep - Doktor geçerli url ile giriş yaptı.
+2024-12-19 11:11:06 [main] INFO  StepDefinitions.DoctorStep - Geçerli User Name girildi.
+2024-12-19 11:11:07 [main] INFO  StepDefinitions.DoctorStep - Geçerli password girildi.
+2024-12-19 11:11:07 [main] INFO  StepDefinitions.LoginStep - Sign In butonuna tıklandı.
+2024-12-19 11:11:08 [main] INFO  StepDefinitions.LoginStep - Heal Life logosu başarılı bir şekilde görüntüleniyor.
+2024-12-19 11:11:08 [main] INFO  StepDefinitions.LoginStep - Heal Life logosu görüntülendi.
+2024-12-19 11:11:11 [main] INFO  StepDefinitions.DoctorStep - Messaging linkine tıklandı.
+2024-12-19 11:11:13 [main] INFO  StepDefinitions.DoctorStep - Iframe'e geçiş yapılıyor.
+2024-12-19 11:11:13 [main] INFO  StepDefinitions.DoctorStep - Iframe'den çıkılıyor.
+2024-12-19 11:11:14 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC04 Send email testi
+2024-12-19 11:11:14 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:11:14 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Admin sitesi dogrulama
+2024-12-19 11:11:15 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:11:18 [main] INFO  StepDefinitions.DoctorStep - Doktor siteye gitti.
+2024-12-19 11:11:22 [main] INFO  StepDefinitions.DoctorStep - Doktor email ve password ile giriş yaptı.
+2024-12-19 11:11:22 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Admin sitesi dogrulama
+2024-12-19 11:11:22 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:11:22 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC06 Doktor olarak Dashboard SideBar'da menülerin olmasını istiyorum
+2024-12-19 11:11:23 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:11:38 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC06 Doktor olarak Dashboard SideBar'da menülerin olmasını istiyorum
+2024-12-19 11:11:38 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:11:38 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC07 Doktor olarak Dashboard SideBar'da menülerin doğru sayfaya ulaşmasını istiyorum
+2024-12-19 11:11:39 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:11:54 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC07 Doktor olarak Dashboard SideBar'da menülerin doğru sayfaya ulaşmasını istiyorum
+2024-12-19 11:11:54 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:11:54 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC08 Doktor olarak Dashboard SideBar'ı kapalı olduğunca iconlarının görünür olmasını istiyorum
+2024-12-19 11:11:56 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:12:11 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC08 Doktor olarak Dashboard SideBar'ı kapalı olduğunca iconlarının görünür olmasını istiyorum
+2024-12-19 11:12:11 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:12:11 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Appointment sayfasi dogrulama testi
+2024-12-19 11:12:12 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:12:15 [main] INFO  StepDefinitions.DoctorStep - Doktor siteye gitti.
+2024-12-19 11:12:18 [main] INFO  StepDefinitions.DoctorStep - Doktor email ve password ile giriş yaptı.
+2024-12-19 11:12:22 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Appointment sayfasi dogrulama testi
+2024-12-19 11:12:23 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:12:23 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC09 Doktor olarak Appointment sayfasindan hastalarin aldiklari randevularin goruntulenmesini istiyorum
+2024-12-19 11:12:23 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:12:39 [main] INFO  StepDefinitions.DoctorStep - Browser kapatıldı.
+2024-12-19 11:12:39 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC09 Doktor olarak Appointment sayfasindan hastalarin aldiklari randevularin goruntulenmesini istiyorum
+2024-12-19 11:12:39 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:12:39 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC10 Appointment sayfasında bulunan Search Box'i kullanarak randevularin aranmasini istiyorum
+2024-12-19 11:12:40 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:12:55 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC10 Appointment sayfasında bulunan Search Box'i kullanarak randevularin aranmasini istiyorum
+2024-12-19 11:12:55 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:12:55 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC11 Doctor Wise Appointment sayfasında Doctor ve Date filtreleme seçeneklerini kullanarak arama yapabilmek istiyorum
+2024-12-19 11:12:56 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:13:11 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC11 Doctor Wise Appointment sayfasında Doctor ve Date filtreleme seçeneklerini kullanarak arama yapabilmek istiyorum
+2024-12-19 11:13:11 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:13:11 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC12 Appointment sayfasından Queue filtreleme seçeneklerini kullanarak arama yapabilmek istiyorum
+2024-12-19 11:13:12 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:13:28 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC12 Appointment sayfasından Queue filtreleme seçeneklerini kullanarak arama yapabilmek istiyorum
+2024-12-19 11:13:29 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:13:29 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC13 Appointment sayfasinda Appointment Details Listeleme seçeneklerinin görüntülenmesini istiyorum.
+2024-12-19 11:13:29 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:13:45 [main] INFO  StepDefinitions.DoctorStep - Browser kapatıldı.
+2024-12-19 11:13:45 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC13 Appointment sayfasinda Appointment Details Listeleme seçeneklerinin görüntülenmesini istiyorum.
+2024-12-19 11:13:45 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:13:45 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Doktor sisteme giriş yapar
+2024-12-19 11:13:46 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:13:47 [main] INFO  StepDefinitions.DoctorStep - Doktor geçerli url ile giriş yaptı.
+2024-12-19 11:13:47 [main] INFO  StepDefinitions.DoctorStep - Geçerli User Name girildi.
+2024-12-19 11:13:47 [main] INFO  StepDefinitions.DoctorStep - Geçerli password girildi.
+2024-12-19 11:13:49 [main] INFO  StepDefinitions.LoginStep - Sign In butonuna tıklandı.
+2024-12-19 11:13:49 [main] INFO  StepDefinitions.LoginStep - Heal Life logosu başarılı bir şekilde görüntüleniyor.
+2024-12-19 11:13:49 [main] INFO  StepDefinitions.LoginStep - Heal Life logosu görüntülendi.
+2024-12-19 11:13:49 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Doktor sisteme giriş yapar
+2024-12-19 11:13:49 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:13:49 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01 OPD linkine tıklanması ve list başlıklarının görüntülenmesi testi
+2024-12-19 11:13:50 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:14:07 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC01 OPD linkine tıklanması ve list başlıklarının görüntülenmesi testi
+2024-12-19 11:14:08 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:14:08 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC02 OPD patient listin siralanmasi ve sayfada görüntülenecek kayit sayisinin secilmesi
+2024-12-19 11:14:08 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:14:25 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC02 OPD patient listin siralanmasi ve sayfada görüntülenecek kayit sayisinin secilmesi
+2024-12-19 11:14:26 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:14:26 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC03 show butonuna tiklanmasi ve overview sayfasinin görüntülenmesi testi
+2024-12-19 11:14:27 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:14:44 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC03 show butonuna tiklanmasi ve overview sayfasinin görüntülenmesi testi
+2024-12-19 11:14:44 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:14:44 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Kullanici sisteme giris yapar.
+2024-12-19 11:14:45 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:14:46 [main] INFO  StepDefinitions.LoginStep - Kullanıcı adresine gitti.
+2024-12-19 11:14:46 [main] INFO  StepDefinitions.LoginStep - Geçerli bir email adresi ve şifre girildi.
+2024-12-19 11:14:48 [main] INFO  StepDefinitions.LoginStep - Sign In butonuna tıklandı.
+2024-12-19 11:14:48 [main] INFO  StepDefinitions.LoginStep - Dashboard düzgün bir şekilde görüntülendi.
+2024-12-19 11:14:48 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Kullanici sisteme giris yapar.
+2024-12-19 11:14:48 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:14:48 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TPA Management sayfasındaki kolonların doğrulanması
+2024-12-19 11:14:49 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:15:04 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TPA Management sayfasındaki kolonların doğrulanması
+2024-12-19 11:15:04 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:15:04 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Tablo öğelerinin kolonlara göre listelenebildiğinin doğrulanması
+2024-12-19 11:15:05 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:15:05 [main] INFO  StepDefinitions.AdminIPDStep - Kullanıcı tablo öğelerinin kolonlara göre sıralanabildiğini doğruladı.
+2024-12-19 11:15:05 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Tablo öğelerinin kolonlara göre listelenebildiğinin doğrulanması
+2024-12-19 11:15:05 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:15:05 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Sayfada bir arama çubuğu olduğunun doğrulanması
+2024-12-19 11:15:06 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:15:21 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Sayfada bir arama çubuğu olduğunun doğrulanması
+2024-12-19 11:15:21 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:15:21 [main] INFO  utilities.LoggerHelper - Test Başlıyor: İçeriğin sayfa başına gösterilecek miktarının seçilebilmesi
+2024-12-19 11:15:22 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:15:37 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: İçeriğin sayfa başına gösterilecek miktarının seçilebilmesi
+2024-12-19 11:15:37 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:15:37 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Organization butonunun yönlendirme yapıp yapmadığının doğrulanması
+2024-12-19 11:15:39 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:15:39 [main] INFO  StepDefinitions.AdminIPDStep - Kullanıcı Details sayfasına başarıyla yönlendirildi.
+2024-12-19 11:15:39 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Organization butonunun yönlendirme yapıp yapmadığının doğrulanması
+2024-12-19 11:15:39 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:15:39 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Insan Kaynaklari Sayfasina Erisim
+2024-12-19 11:15:40 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:15:41 [main] INFO  StepDefinitions.AdminHRStep - Admin kullanıcı ana sayfaya gitti.
+2024-12-19 11:15:43 [main] INFO  StepDefinitions.AdminHRStep - Admin geçerli bilgilerle sisteme giriş yaptı.
+2024-12-19 11:15:45 [main] INFO  StepDefinitions.AdminHRStep - Admin kullanıcı Human Resource linkine tıkladı.
+2024-12-19 11:15:47 [main] INFO  StepDefinitions.AdminHRStep - Admin kullanıcı Staff Directory sayfasını görüntüledi.
+2024-12-19 11:15:47 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Insan Kaynaklari Sayfasina Erisim
+2024-12-19 11:15:47 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:15:47 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Admin kullanici giris bilgileri ile sisteme login olma testi
+2024-12-19 11:15:48 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:15:51 [main] INFO  StepDefinitions.AdminHRStep - Admin kullanıcı başarılı bir şekilde giriş yaptı.
+2024-12-19 11:15:53 [main] INFO  StepDefinitions.AdminHRStep - Admin Staff Directory sayfasına yönlendirildi.
+2024-12-19 11:15:53 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Admin kullanici giris bilgileri ile sisteme login olma testi
+2024-12-19 11:15:53 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:15:53 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Kullanici Kayitli Personelleri Card ve List View formatinda goruntuleyebilmesi
+2024-12-19 11:15:54 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:16:09 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Kullanici Kayitli Personelleri Card ve List View formatinda goruntuleyebilmesi
+2024-12-19 11:16:09 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:16:09 [main] INFO  utilities.LoggerHelper - Test Başlıyor: List View'de Action basligi altinda personel bilgilerinin show ve edit yapilabilmesi
+2024-12-19 11:16:10 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:16:25 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: List View'de Action basligi altinda personel bilgilerinin show ve edit yapilabilmesi
+2024-12-19 11:16:25 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:16:25 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Staff Directory Sayfasindan "Disabled Staff" sayfalara gecisin yapilabilmesi
+2024-12-19 11:16:26 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:16:41 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Staff Directory Sayfasindan "Disabled Staff" sayfalara gecisin yapilabilmesi
+2024-12-19 11:16:42 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:16:42 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Admin kullanici giris bilgileri ile sisteme login olma testi
+2024-12-19 11:16:43 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:16:46 [main] INFO  StepDefinitions.AdminHRStep - Admin kullanıcı başarılı bir şekilde giriş yaptı.
+2024-12-19 11:16:48 [main] INFO  StepDefinitions.AdminHRStep - Admin Staff Directory sayfasına yönlendirildi.
+2024-12-19 11:16:48 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Admin kullanici giris bilgileri ile sisteme login olma testi
+2024-12-19 11:16:48 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:16:48 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Add Staff Sayfasina Erisilebilmesi
+2024-12-19 11:16:49 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:17:05 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Add Staff Sayfasina Erisilebilmesi
+2024-12-19 11:17:05 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:17:05 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Staff Kaydi Yapilabilmesi
+2024-12-19 11:17:06 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:17:21 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Staff Kaydi Yapilabilmesi
+2024-12-19 11:17:21 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:17:21 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Add Staff Sayfasindan Import Staff Sayfasina Erisilebilmesi
+2024-12-19 11:17:22 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:17:37 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Add Staff Sayfasindan Import Staff Sayfasina Erisilebilmesi
+2024-12-19 11:17:37 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:17:37 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Admin giris
+2024-12-19 11:17:38 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:17:41 [main] INFO  StepDefinitions.AdminHRStep - Admin kullanıcı başarılı bir şekilde giriş yaptı.
+2024-12-19 11:17:43 [main] INFO  StepDefinitions.AdminHRStep - Admin Staff Directory sayfasına yönlendirildi.
+2024-12-19 11:17:43 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Admin giris
+2024-12-19 11:17:43 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:17:43 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Staff Directory sayfasindan My Leaves sayfasina erisilebilmesi
+2024-12-19 11:17:44 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:17:59 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Staff Directory sayfasindan My Leaves sayfasina erisilebilmesi
+2024-12-19 11:18:00 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:18:00 [main] INFO  utilities.LoggerHelper - Test Başlıyor: My Leaves Sayfasi icinde Arama ve Siralama Yapilabilmesi
+2024-12-19 11:18:01 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:18:16 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: My Leaves Sayfasi icinde Arama ve Siralama Yapilabilmesi
+2024-12-19 11:18:16 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:18:16 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Admin kullanici giris bilgileri ile sisteme login olma testi
+2024-12-19 11:18:17 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:18:20 [main] INFO  StepDefinitions.AdminHRStep - Admin kullanıcı başarılı bir şekilde giriş yaptı.
+2024-12-19 11:18:21 [main] INFO  StepDefinitions.AdminHRStep - Admin Staff Directory sayfasına yönlendirildi.
+2024-12-19 11:18:21 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Admin kullanici giris bilgileri ile sisteme login olma testi
+2024-12-19 11:18:21 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:18:21 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Leaves Sayfasindan Approve Leave Request'e Erisilebilmesi
+2024-12-19 11:18:22 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:18:37 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Leaves Sayfasindan Approve Leave Request'e Erisilebilmesi
+2024-12-19 11:18:38 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2024-12-19 11:18:38 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Approve Leave Request List sayfasindan Add Leave Request penceresine erisilmesi
+2024-12-19 11:18:38 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-12-19 11:18:54 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Approve Leave Request List sayfasindan Add Leave Request penceresine erisilmesi
+2024-12-19 11:18:54 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.

@@ -1,5 +1,7 @@
+@smoke
 Feature: Dashboard Sayfasındaki Özet Bilgi Panellerini Doğrulama
 
+  @regression
   Scenario: Özet bilgi panellerinin görünürlüğünü ve işlevselliğini doğrulama
     Given Kullanıcı "HLurl" sitesine gider
     And   loginButton'una tıklayarak kullanıcı adı ve şifresi ile hasta olarak giriş yapar
@@ -14,12 +16,14 @@ Feature: Dashboard Sayfasındaki Özet Bilgi Panellerini Doğrulama
       | Live Consultation |
     When Kullanıcı browser kapatır
 
+  @regression
   Scenario: Medical History grafiğinin görünürlüğünü ve değerlerini doğrula
     Given Kullanıcı "HLurl" sitesine gider
     And   loginButton'una tıklayarak kullanıcı adı ve şifresi ile hasta olarak giriş yapar
     Then Dashboard sayfasının gövdesinde "Medical History" başlıklı bir grafik bulunduğunu doğrular
     When Kullanıcı browser kapatır
 
+  @regression
   Scenario: Kullanıcı belirtiler ve semptomlar için özet grafiklerin sayfada mevcut olduğunu doğrular
     Given Kullanıcı "HLurl" sitesine gider
     And loginButton'una tıklayarak kullanıcı adı ve şifresi ile hasta olarak giriş yapar

@@ -1,6 +1,7 @@
+@smoke
 Feature: US005_Bir kullanıcı olarak sitenin ana sayfasinda hastaneye ait
          "Featured Services" bölümünün olmasini istiyorum.
-
+  @regression
   Scenario: TC01_Ana sayfada Featured Services yazısı ve altında
             Medical Treatment, Emergency Help, Qualified Doctors, Medical professionals
             başlıklarının görünür olduğunun doğrulanması testi

@@ -1,6 +1,7 @@
-
+@smoke
 Feature: Gallery Page Navigation
 
+  @regression
   Scenario: Verify gallery sections and their images
     Given Kullanıcı "HLurl" sitesine gider
     When Ana sayfada Gallery menüsüne tıklayın

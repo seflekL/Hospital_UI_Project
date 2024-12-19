@@ -1,16 +1,19 @@
-@US52
+@smoke
 
 Feature: TPA Management Sayfası Temel Özellikleri ve İşlevselliği
 
-  Background: Kullanici sisteme giris yapar.
+  @regression
+
+  Scenario: Kullanici sisteme giris yapar.
     Given kullanici "HLadminUrl" adresine gider
-    And geçerli bir email adresi "DoctorMailOnur" ve sifre "Passwords" girer
+    And geçerli bir email adresi "DoctorMailLevent" ve sifre "Passwords" girer
     When Sign In butonuna tıklar
     Then dashboard duzgun bir şekilde goruntulenir
     When kullanici sol menuden "TPA Management" butonuna tiklar
     Then kullanici TPA Management sayfasina yonlendirildigini dogrular
 
-  @TC01
+  @regression
+
   Scenario: TPA Management sayfasındaki kolonların doğrulanması
     Then kullanici aşağıdaki kolonların görüntülendiğini doğrular:
       | Name                 |
@@ -20,19 +23,23 @@ Feature: TPA Management Sayfası Temel Özellikleri ve İşlevselliği
       | Contact Person Name  |
       | Contact Person Phone |
 
-  @TC02
+  @regression
+
   Scenario: Tablo öğelerinin kolonlara göre listelenebildiğinin doğrulanması
     Then kullanici tablo öğelerinin kolonlara göre listelenebildiğini doğrular
 
-  @TC03
+  @regression
+
   Scenario: Sayfada bir arama çubuğu olduğunun doğrulanması
     Then sayfada bir arama çubuğu olduğunu doğrular
 
-  @TC04
+  @regression
+
   Scenario: İçeriğin sayfa başına gösterilecek miktarının seçilebilmesi
     Then kullanici sayfadaki içeriğin görüntüleneceği sayfa sayısını 100 ya da "All" olarak seçebileceğini doğrular
 
-  @TC05
+  @regression
+
   Scenario: Organization butonunun yönlendirme yapıp yapmadığının doğrulanması
     When kullanici "Contact Person Phone" altındaki "Organization" butonuna tıklar
     Then kullanici Details sayfasina yonlendirildigini dogrular

@@ -1,8 +1,8 @@
-@US02
+@smoke
 
 Feature: Anasayfa Header Testleri
 
-  @TC01
+  @regression
   Scenario: Header'daki elementlerin gorunurlugunu dogrulama
     Given Kullanıcı "HLurl" sitesine gider
     Then Latest News bilgisinin ust barda kayan bir yazi olarak gorunur oldugunu dogrular

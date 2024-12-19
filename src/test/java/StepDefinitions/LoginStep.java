@@ -14,6 +14,8 @@ import utilities.ConfigReader;
 import utilities.DriverManager;
 import utilities.ReusableMethods;
 
+import static org.bouncycastle.cms.RecipientId.password;
+
 public class LoginStep {
     WebDriver driver = StepDefinitions.Hooks.getDriver();
     private static final Logger logger = LogManager.getLogger(LoginStep.class);
@@ -186,7 +188,7 @@ public class LoginStep {
     @Step("Geçerli User Name {string} girer")
     @Then("Gecerli User Name {string} Girer")
     public void gecerli_user_name_girer(String gecerliMail) {
-        loginPage.email.sendKeys(gecerliMail);
+        loginPage.email.sendKeys(ConfigReader.getProperty("AdminMailLevent"));
         logger.info("Geçerli User Name girildi.");
 
     }
@@ -200,7 +202,8 @@ public class LoginStep {
     @Step("Geçerli password {string} girer")
     @Then("Gecerli password {string} girer")
     public void gecerli_password_girer(String gecerliPassword) {
-        loginPage.password.sendKeys(gecerliPassword);
+        loginPage.password.sendKeys(ConfigReader.getProperty("Passwords"));
+        ReusableMethods.wait(2);
         logger.info("Geçerli password girildi.");
 
     }

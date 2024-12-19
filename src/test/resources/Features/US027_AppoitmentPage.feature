@@ -1,8 +1,7 @@
+@smoke
 Feature: Bir kullanici olarak kolayca randevu olusturabilmek icin ana sayfada appointment sayfasinin olmasini istiyorum
 
-  @levent
-
-
+  @regression
   Scenario: TC_001 Kullanici randevu alma islemini basariyla gerceklestirir
     Given Kullanici anasayfaya gider
     When  Kullanici Appointment sekmesine tiklar
@@ -14,7 +13,7 @@ Feature: Bir kullanici olarak kolayca randevu olusturabilmek icin ana sayfada ap
     And  Kullanici Patient Portal yonlendirildigini dogrular
     And   Kullanici sayfayi kapatir
 
-  @levent2
+  @regression
   Scenario: TC_002 Kullanici yanlis veya eksik bilgilerle randevu alamaz
 
     Given Kullanici anasayfaya gider
@@ -27,8 +26,7 @@ Feature: Bir kullanici olarak kolayca randevu olusturabilmek icin ana sayfada ap
     And   Kullaniciya eksik veya hatali bilgi icin Lutfen tum alanlari doldurun seklinde bir hata mesaji gosterilir.
     And   Kullanici sayfayi kapatir
 
-
-  @levent3
+  @regression
   Scenario:TC_003 Daha onceden olusturulan randevu icin tekrar randevu olusturma
 
     Given Kullanici anasayfaya gider

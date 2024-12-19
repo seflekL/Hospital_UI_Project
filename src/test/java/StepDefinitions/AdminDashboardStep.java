@@ -301,4 +301,9 @@ public class AdminDashboardStep {
     }
 
 
+    @And("admin login linkine tiklanir")
+    public void adminLoginLinkineTiklanir() {
+
+        adminLoginLinkineTiklanir();
+    }
 }

@@ -1,6 +1,7 @@
+@smoke
 Feature:Kullanici Contact Us sayfasini ziyaret ettiginde gerekli elementlerin goruntulendigini dogrulamalidir.
 
-  @levent4
+  @@regression
   Scenario:TC_001 Kullanici Contact Us sayfasini basariyla ziyaret eder
 
     Given Kullanici anasayfaya gider

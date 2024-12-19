@@ -1,6 +1,7 @@
+@smoke
 Feature: About Us Dropdown Menu Testi
   Kullanıcı "About Us" dropdown menusunu doğrular.
-
+  @regression
   Scenario: About Us dropdown ve About Hospitals sayfa testi
     Given Kullanıcı "HLurl" sitesine gider
     When Ana sayfanın üst kısmında "About Us" menüsünün üzerine gelir
@@ -10,7 +11,7 @@ Feature: About Us Dropdown Menu Testi
     And Kullanıcı Departments başlığına tıkladığında ilgili sayfaya yönlendirildiğini doğrular
     And Kullanıcı Testimonials başlığına tıkladığında ilgili sayfaya yönlendirildiğini doğrular
     When Kullanıcı browser kapatır
-
+  @regression
   Scenario: Kullanıcı "About Us" menüsünden "About Hospitals" başlığına gider ve ilgili başlıkları doğrular
     Given Kullanıcı "HLurl" sitesine gider
     When Ana sayfanın üst kısmında "About Us" menüsünün üzerine gelir
@@ -24,7 +25,7 @@ Feature: About Us Dropdown Menu Testi
     And Jesse N. Charnoff'ın resmi, İsim ve Unvan'ının Our Specialist başlığı altında olduğunu doğrulayın
     And George Cyril'in resmi, İsim ve Unvan'ının Our Specialist başlığı altında olduğunu doğrulayın
     When Kullanıcı browser kapatır
-
+  @regression
   Scenario: Kullanıcı Meet Our Doctors sayfasını doğrular
     Given Kullanıcı "HLurl" sitesine gider
     When Ana sayfanın üst kısmında "About Us" menüsünün üzerine gelir
@@ -44,7 +45,7 @@ Feature: About Us Dropdown Menu Testi
     And Kullanıcı Gynaecologist uzmanlık alanına tıkladığında doktor isimlerini, unvanlarını ve resimlerini görür
     And Kullanıcı Neurologist uzmanlık alanına tıkladığında doktor isimlerini, unvanlarını ve resimlerini görür    And sayfayı kapatır
     When Kullanıcı browser kapatır
-
+  @regression
   Scenario: Kullanıcı FAQ's sayfasını doğrular
     Given Kullanıcı "HLurl" sitesine gider
     When Ana sayfanın üst kısmında "About Us" menüsünün üzerine gelir
@@ -54,7 +55,7 @@ Feature: About Us Dropdown Menu Testi
     And FAQ's sayfasinda 9 tane soru olduğunu doğrulayın
     And Her bir soru üzerine tıklayın ve altlarında cevabın göründüğünü doğrulayın
     When Kullanıcı browser kapatır
-
+  @regression
   Scenario: Kullanıcı Departments sayfasındaki başlıkları ve açıklama metinlerini doğrular
     Given Kullanıcı "HLurl" sitesine gider
     When Ana sayfanın üst kısmında "About Us" menüsünün üzerine gelir
@@ -73,7 +74,7 @@ Feature: About Us Dropdown Menu Testi
       | Diagnostic Imaging                         |
       | Discharge Lounge                           |
     When Kullanıcı browser kapatır
-
+  @regression
   Scenario: Testimonials sayfasındaki kişilerin yorumlarını ve resimlerini doğrulama
     Given Kullanıcı "HLurl" sitesine gider
     When Ana sayfanın üst kısmında "About Us" menüsünün üzerine gelir

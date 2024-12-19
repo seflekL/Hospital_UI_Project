@@ -1,5 +1,7 @@
+@smoke
 Feature: Admin oloarak Radilogy servisine ait daitlati yonetilbilmek icin gerekli sayfalarin olmasini isityorum
-@levent38
+
+  @regression
   Scenario: TC_001 Kullanici Radiology sayfasina erisebilirlik testi
 
     Given Kullanıcı Heal Life sitesine giris yapar

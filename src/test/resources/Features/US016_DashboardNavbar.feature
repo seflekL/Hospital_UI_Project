@@ -1,6 +1,7 @@
+@smoke
 Feature: Dashboard sayfasındakı navbar
 
-
+  @regression
   Scenario: Logoya tıklayıınca anasayfaya yonlendırme
 
     Given kullanici "HLuserUrl" adresine gider

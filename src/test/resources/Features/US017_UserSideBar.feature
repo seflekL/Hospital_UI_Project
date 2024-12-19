@@ -1,5 +1,7 @@
+@smoke
 Feature: sidebar ulaşım
 
+  @regression
   Scenario: TC01Sidebara katılıp menulerın gorundugunu test etmek
     Given kullanici URL'i acar
     And Kullanıcı email adresini girer

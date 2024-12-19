@@ -1,12 +1,11 @@
-#Bu feature Ugur Yaman tarafindan 25.11.2024 tarihinde "Ana Sayfa Slider'inin Calismasini Test Etmek Icin" olusturulmustur.
-
-  @us03
+@smoke
 Feature: Ana sayfada slider'in dogru calistigini dogrulama
-         Ana sayfada kullanicinin hastaneye ait gorselleri goruntuledigi ve bu gorsellerin periyodik olarak degistigini kontrol etmek
+  Ana sayfada kullanicinin hastaneye ait gorselleri goruntuledigi ve bu gorsellerin periyodik olarak degistigini kontrol etmek
 
   Background:
     Given Kullanici websitesi URL'ini kullanarak ana sayfaya gider
 
+  @regression
   Scenario: [TC_001 > US_03] Ana sayfa kaydırıcısında görsellerin görüntülenmesi ve otomatik değişimi
     When Kullanıcı ana sayfadaki slider'i göruntuler
     And Kullanici ana sayfada slider'da otomatik olarak degisen resimleri goruntuler
