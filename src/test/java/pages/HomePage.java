@@ -113,9 +113,7 @@ public class HomePage {
     @FindBy(xpath = "(//a[@class='content-title'])[3]")
     public WebElement Adress;
 
-    // [Footer] - [Copyright] bölümünün elementleri
 
-    // [Home] - [Methods] buraya eklenecek
 
     @FindBy(xpath = "//div[@class='team-member']/h4")
     public List<WebElement> teamMembers;
@@ -182,15 +180,7 @@ public class HomePage {
 
     public void her_bir_doktor_için_aşağıdaki_bilgiler_görünür_olmalı() {
         for (int i = 0; i < doktorBilgileri.size(); i++) {
-            // Beklenen isim ve unvan
-            //   String actualName = doktorBilgileri.get(i).getText("İsim Soyisim");
-            //    String actualTitle = doktorBilgileri.get(i).get("Unvan");
 
-            // Sayfadaki doktor kartını al
-            //  WebElement doktorKart = doktorKartlari.get(i);
-            //Doktor fotoğrafının görünür olduğunu doğrula
-            // WebElement doktorFoto = doktorKart.findElement(By.cssSelector(".doctor-photo"));
-            // Assert.assertTrue("Doktor fotoğrafı görünüyor!", doktorFoto.isDisplayed());
 
         }
     }
@@ -223,14 +213,6 @@ public class HomePage {
     @FindBy(xpath = "//h1[normalize-space()='Surgery']")
     public WebElement GallerySubTitle6;
 
-    // [Header] - [Login] bölümünün elementleri
-
-    // [Footer] - [Social Media] bölümünün elementleri
-
-    // [Footer] - [Communication] bölümünün elementleri
-
-    // [Footer] - [Copyright] bölümünün elementleri
-
     @FindBy(xpath = "(//*[text()='Contact Us'])[2]")
     public WebElement FooterContactUs;
 
@@ -251,10 +233,6 @@ public class HomePage {
 
     @FindBy(xpath = "//*[@class='evcontentfix']")
     public List<WebElement> GalleryBasliklar;
-
-
-
-    // [Body] - [Bilgi Boardları] bölümünün elementleri
 
     @FindBy (xpath = "//*[@class='featurebox1']")
     public WebElement InsurancePlans;
@@ -282,9 +260,6 @@ public class HomePage {
 
     @FindBy (xpath = "//*[text()='Lab Testing Services:']")
     public WebElement BaslikLabTesting;
-
-
-    // [Body] - [Featured Services] bölümünün elementleri
 
     @FindBy (xpath = "//*[text()='Featured Services']")
     public WebElement FeaturedServicesYazisi;

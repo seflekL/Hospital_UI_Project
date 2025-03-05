@@ -86,7 +86,6 @@ public class PatientDashboardPage {
         return boardUrls;
     }
 
-    // Medical History grafiği element tanımı
     @FindBy(id = "medical-history-chart")
     public WebElement medicalHistoryGraph;
     // OPD değeri

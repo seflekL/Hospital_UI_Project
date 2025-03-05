@@ -1,3 +1,4 @@
+# Target and Build Artifacts
 target/
 test-output/
 !.mvn/wrapper/maven-wrapper.jar
@@ -12,9 +13,9 @@ test-output/
 *.swo
 *.~lock.*
 
+# IDE & Editor Configurations
 ### IntelliJ IDEA ###
 .idea/
-/*.iml
 .idea/shelf
 .idea/modules.xml
 .idea/jarRepositories.xml
@@ -50,29 +51,107 @@ build/
 ### VS Code ###
 .vscode/
 
-### Mac OS ###
+# MacOS & System Files
 .DS_Store
+Thumbs.db
+desktop.ini
 
-### Test Report and Temp Files ###
-/reports/
-/allure-results/
-/allure-report/
+# Node.js Dependencies (if applicable)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Logs and Temp Files
+/logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
 *.tmp
 *.bak
 *.old
+*.pid
+*.seed
+*.pid.lock
 
-# Cucumber
+# Test Reports
+/reports/
+/allure-results/
+/allure-report/
 /cucumber-html-reports/
 /cucumber.json
 /cucumber-reports/
-
-# Selenium
 /screenshots/
 
-# Log4j log files
+# Log4j logs
 /logs/
 
+# Environment Files (Secrets & Configs)
 /configuration.properties
-.env/
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+.env.staging
+.env.backup
+*.env
+*.pem
+*.crt
+*.key
+*.p12
+*.pfx
 
+# Database Files
+/database/
+*.sqlite
+*.db
+*.db-shm
+*.db-wal
 
+# Docker & Kubernetes
+docker-compose.override.yml
+*.dockerfile
+.kube/
+
+# Terraform
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+
+# Debug & Memory Dumps
+*.stackdump
+*.memorydump
+heapdump.hprof
+hs_err_pid*
+*.out
+
+# Python & Virtual Environments (If used)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.envrc
+
+# Maven & Gradle
+.mvn/
+.gradle/
+.gradle/cache/
+.gradle/daemon/
+.gradle/wrapper/
+!**/src/main/**/.mvn/
+!**/src/main/**/.gradle/
+
+# Local Git Configs
+.git/config
+.gitignore_global
+
+# Additional Miscellaneous
+.history/
+*.sw?
+!.gitattributes

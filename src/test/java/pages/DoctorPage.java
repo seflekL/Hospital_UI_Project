@@ -17,11 +17,9 @@ public class DoctorPage {
     WebDriver driver = Hooks.getDriver();
 
 
-    //Doktor paneli mesaj bölümü
     @FindBy(xpath = "//div[@class='col-md-12']")
     public WebElement mesajBolumu;
 
-    //Doktor paneli calendar bölümü
     @FindBy(xpath = "/html/body/div[1]/div[1]/section/div[4]/div[1]/div/div[2]/div/div/div[1]/div[2]/div/button[1]")
     public WebElement monthButton;
 

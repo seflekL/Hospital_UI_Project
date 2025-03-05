@@ -4727,3 +4727,140 @@
 2024-12-19 14:50:04 [main] INFO  StepDefinitions.AdminHRStep - Admin Staff Directory sayfasına yönlendirildi.
 2024-12-19 14:50:04 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: Admin giris
 2024-12-19 14:50:04 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:56 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01 Belirlenmiş URL ile siteye erişebilmeliyim
+2025-01-10 21:49:56 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC01 Belirlenmiş URL ile siteye erişebilmeliyim
+2025-01-10 21:49:56 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:56 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Ana sayfa kaydırıcısında görsellerin görüntülenmesi ve otomatik değişimi
+2025-01-10 21:49:56 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Ana sayfa kaydırıcısında görsellerin görüntülenmesi ve otomatik değişimi
+2025-01-10 21:49:56 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:56 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Ana sayfa slider'inde gecis ikonu kullanilarak gorseller arasinda gecis yapilmasi
+2025-01-10 21:49:56 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Ana sayfa slider'inde gecis ikonu kullanilarak gorseller arasinda gecis yapilmasi
+2025-01-10 21:49:56 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:56 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Insurance Plans,Pediatric Services, Lab Testing board'larının görünür olması testi
+2025-01-10 21:49:56 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Insurance Plans,Pediatric Services, Lab Testing board'larının görünür olması testi
+2025-01-10 21:49:56 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:56 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Insurance Plans,Pediatric Services, Lab Testing board'ları altındaki read more butonunun
+2025-01-10 21:49:56 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Insurance Plans,Pediatric Services, Lab Testing board'ları altındaki read more butonunun
+2025-01-10 21:49:56 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:56 [main] INFO  utilities.LoggerHelper - Test Başlıyor: "Our Doctors" başlığı altındaki doktorlar doğru şekilde listeleniyor
+2025-01-10 21:49:56 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: "Our Doctors" başlığı altındaki doktorlar doğru şekilde listeleniyor
+2025-01-10 21:49:56 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:56 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Kullanıcı qa.heallifehospital.com URL'ine ulaşabilmelidir.
+2025-01-10 21:49:56 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Kullanıcı qa.heallifehospital.com URL'ine ulaşabilmelidir.
+2025-01-10 21:49:56 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:56 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Sosyal medya ikonlarının ilgili hesaplara yönlendirdiğinin doğrulanması testi
+2025-01-10 21:49:56 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Sosyal medya ikonlarının ilgili hesaplara yönlendirdiğinin doğrulanması testi
+2025-01-10 21:49:56 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:56 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01 Ana sayfa alt barında telefon, e-posta ve adres bilgilerini gormeli
+2025-01-10 21:49:56 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC01 Ana sayfa alt barında telefon, e-posta ve adres bilgilerini gormeli
+2025-01-10 21:49:56 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:56 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC04 Ana sayfa alt bar Address'in görünürlüğü ve islevselliği
+2025-01-10 21:49:56 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC04 Ana sayfa alt bar Address'in görünürlüğü ve islevselliği
+2025-01-10 21:49:56 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:56 [main] INFO  utilities.LoggerHelper - Test Başlıyor: About Us dropdown ve About Hospitals sayfa testi
+2025-01-10 21:49:56 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: About Us dropdown ve About Hospitals sayfa testi
+2025-01-10 21:49:56 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Kullanıcı "About Us" menüsünden "About Hospitals" başlığına gider ve ilgili başlıkları doğrular
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Kullanıcı "About Us" menüsünden "About Hospitals" başlığına gider ve ilgili başlıkları doğrular
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Kullanıcı Meet Our Doctors sayfasını doğrular
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Kullanıcı Meet Our Doctors sayfasını doğrular
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Kullanıcı Departments sayfasındaki başlıkları ve açıklama metinlerini doğrular
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Kullanıcı Departments sayfasındaki başlıkları ve açıklama metinlerini doğrular
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Testimonials sayfasındaki kişilerin yorumlarını ve resimlerini doğrulama
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Testimonials sayfasındaki kişilerin yorumlarını ve resimlerini doğrulama
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Verify gallery sections and their images
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Verify gallery sections and their images
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Contact us sayfasına erişim
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Contact us sayfasına erişim
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Kullanıcı contact as sayfasında box doldurur.
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Kullanıcı contact as sayfasında box doldurur.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Login olma Ana sayfadaki giriş işlevine erişmek istiyorum
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Login olma Ana sayfadaki giriş işlevine erişmek istiyorum
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Geçersiz giriş ve şifremi unuttum işlevi
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Geçersiz giriş ve şifremi unuttum işlevi
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Kullanici sisteme giris yapar.
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Kullanici sisteme giris yapar.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC_001 AAbout Us dropdown seceneklerinin dogru sekilde goruntulenmesi dogrulanmalidir.
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC_001 AAbout Us dropdown seceneklerinin dogru sekilde goruntulenmesi dogrulanmalidir.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Admin Dashboard kullanbilirlik testi
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Admin Dashboard kullanbilirlik testi
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Kullanici Contact Us sayfasini basariyla ziyaret eder
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Kullanici Contact Us sayfasini basariyla ziyaret eder
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Doğru bilgiler ile admin  panele giriş testi
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Doğru bilgiler ile admin  panele giriş testi
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Forgot Password bağlantısının görünürlüğünü ve işlevselliğini doğrulama testi
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Forgot Password bağlantısının görünürlüğünü ve işlevselliğini doğrulama testi
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC_001 Kullanici Radiology sayfasina erisebilirlik testi
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TC_001 Kullanici Radiology sayfasina erisebilirlik testi
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TPA Yönetim Sayfasına Yönlendirme
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TPA Yönetim Sayfasına Yönlendirme
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Yeni TPA kaydı ekleme ve doğrulama
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Yeni TPA kaydı ekleme ve doğrulama
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TPA Yönetim Listesinde bir kaydın düzenlenmesi, silinmesi ve sıralanması
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: TPA Yönetim Listesinde bir kaydın düzenlenmesi, silinmesi ve sıralanması
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Doğru bilgiler ile panele giriş testi
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Doğru bilgiler ile panele giriş testi
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Login sayfasina dogru datalar ile sisteme girilmesi testi
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Login sayfasina dogru datalar ile sisteme girilmesi testi
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Doktorlara gonderilen post mesajlarinin goruntulenmesi testi
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Doktorlara gonderilen post mesajlarinin goruntulenmesi testi
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Sisteme kayitli calisan sayisinin goruntulenmesi testi
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Sisteme kayitli calisan sayisinin goruntulenmesi testi
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Doktor olarak Appointment sayfasindan hastalarin aldiklari randevularin goruntulenmesini istiyorum
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Doktor olarak Appointment sayfasindan hastalarin aldiklari randevularin goruntulenmesini istiyorum
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Appointment sayfasinda Appointment Details Listeleme seçeneklerinin görüntülenmesini istiyorum.
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Appointment sayfasinda Appointment Details Listeleme seçeneklerinin görüntülenmesini istiyorum.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Doktor sisteme giriş yapar
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Doktor sisteme giriş yapar
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Kullanici sisteme giris yapar.
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Kullanici sisteme giris yapar.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Tablo öğelerinin kolonlara göre listelenebildiğinin doğrulanması
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Tablo öğelerinin kolonlara göre listelenebildiğinin doğrulanması
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Organization butonunun yönlendirme yapıp yapmadığının doğrulanması
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Organization butonunun yönlendirme yapıp yapmadığının doğrulanması
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Insan Kaynaklari Sayfasina Erisim
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Insan Kaynaklari Sayfasina Erisim
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Admin kullanici giris bilgileri ile sisteme login olma testi
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Admin kullanici giris bilgileri ile sisteme login olma testi
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Test Başlıyor: Admin giris
+2025-01-10 21:49:57 [main] ERROR utilities.LoggerHelper - Test başarısız oldu: Admin giris
+2025-01-10 21:49:57 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.
+2025-01-15 07:17:52 [main] INFO  utilities.LoggerHelper - Test Başlıyor: TC01 Belirlenmiş URL ile siteye erişebilmeliyim
+2025-01-15 07:17:56 [main] INFO  utilities.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2025-01-15 07:17:58 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı sitesine gidiyor: HLurl
+2025-01-15 07:17:58 [main] INFO  StepDefinitions.HomePageStep - Kullanıcı bulunduğu URL ile belirlenmiş URL doğru.
+2025-01-15 07:17:58 [main] INFO  StepDefinitions.HomePageStep - Site başlığı beklenen ile aynı
+2025-01-15 07:17:58 [main] INFO  StepDefinitions.HomePageStep - Browser kapatıldı.
+2025-01-15 07:17:58 [main] INFO  utilities.LoggerHelper - Test başarıyla tamamlandı: TC01 Belirlenmiş URL ile siteye erişebilmeliyim
+2025-01-15 07:17:58 [main] INFO  utilities.LoggerHelper - Driver kapatıldı.

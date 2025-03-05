@@ -63,16 +63,13 @@ public class LoginPage {
     public void verifySectionVisibilityAndPosition(String xpath, String sectionName, String expectedPosition) {
         WebElement section = driver.findElement(By.xpath(xpath));
 
-        // Bölmenin görünürlüğünü kontrol et
         if (!section.isDisplayed()) {
             throw new AssertionError(sectionName + " görünmüyor!");
         }
 
-        // Pencere genişliğini ve bölmenin X koordinatını al
         int windowWidth = driver.manage().window().getSize().getWidth();
         int elementX = section.getLocation().getX();
 
-        // Beklenen konuma göre bölmenin doğru yerde olup olmadığını doğrula
         if ("sağ".equalsIgnoreCase(expectedPosition) && elementX <= windowWidth / 2) {
             throw new AssertionError(sectionName + " sağ tarafta değil!");
         } else if ("sol".equalsIgnoreCase(expectedPosition) && elementX >= windowWidth / 2) {

@@ -14,12 +14,7 @@ public class Gallery_ContactUsPage {
     }
 
 
-    // [Header] - [Login] bölümünün elementleri
 
-    // [Header] - [Contant Us] bölümünün elementleri
-
-    // [Header] - [About Us] bölümünün elementleri
-    // ? Bu elementler AboutUsPage classında tekrar yazmamıza gerek var mı?
 
     // [Header] - [Gallery] bölümünün elementleri
     @FindBy (xpath = "//*[text()='Contact Us']")
